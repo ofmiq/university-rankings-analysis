@@ -1,0 +1,1202 @@
+world_rank,university_name,country,teaching,international,research,citations,income,total_score,international_students,year
+1,Harvard University,United States of America,99.7,72.4,98.7,98.8,34.5,96.1,25.0,2011
+2,California Institute of Technology,United States of America,97.7,54.6,98.0,99.9,83.7,96.0,27.0,2011
+3,Massachusetts Institute of Technology,United States of America,97.8,82.3,91.4,99.9,87.5,95.6,33.0,2011
+4,Stanford University,United States of America,98.3,29.5,98.1,99.2,64.3,94.3,22.0,2011
+5,Princeton University,United States of America,90.9,70.3,95.4,99.9,,94.2,27.0,2011
+6,University of Cambridge,United Kingdom,90.5,77.7,94.1,94.0,57.0,91.2,34.0,2011
+6,University of Oxford,United Kingdom,88.2,77.2,93.9,95.1,73.5,91.2,34.0,2011
+8,"University of California, Berkeley",United States of America,84.2,39.6,99.3,97.8,,91.1,15.0,2011
+9,Imperial College London,United Kingdom,89.2,90.0,94.5,88.3,92.9,90.6,51.0,2011
+10,Yale University,United States of America,92.1,59.2,89.7,91.5,,89.5,20.0,2011
+11,"University of California, Los Angeles",United States of America,83.0,48.1,92.9,93.2,,87.7,15.0,2011
+12,University of Chicago,United States of America,79.1,62.8,87.9,96.9,,86.9,21.0,2011
+13,Johns Hopkins University,United States of America,80.9,58.5,89.2,92.3,100.0,86.4,23.0,2011
+14,Cornell University,United States of America,82.2,62.4,88.8,88.1,34.7,83.9,19.0,2011
+15,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,77.5,93.7,87.8,83.1,,83.4,37.0,2011
+15,University of Michigan,United States of America,83.9,53.3,89.1,84.1,59.6,83.4,16.0,2011
+17,University of Toronto,Canada,75.8,,87.9,82.2,,82.0,15.0,2011
+18,Columbia University,United States of America,73.8,90.9,73.8,92.6,,81.0,28.0,2011
+19,University of Pennsylvania,United States of America,71.8,32.9,82.7,93.6,43.7,79.5,20.0,2011
+20,Carnegie Mellon University,United States of America,70.3,39.1,79.3,95.7,53.7,79.3,35.0,2011
+21,University of Hong Kong,Hong Kong,68.4,91.4,71.4,96.1,56.5,79.2,38.0,2011
+22,University College London,United Kingdom,74.0,90.8,81.6,80.6,39.0,78.4,46.0,2011
+23,University of Washington,United States of America,68.2,49.0,77.1,95.9,32.8,78.0,13.0,2011
+24,Duke University,United States of America,66.8,49.4,71.5,92.3,100.0,76.5,17.0,2011
+25,Northwestern University,United States of America,64.5,60.5,68.8,95.3,,75.9,15.0,2011
+26,University of Tokyo,Japan,87.7,18.4,91.9,58.1,,75.6,10.0,2011
+27,Georgia Institute of Technology,United States of America,67.9,73.2,72.6,83.2,95.1,75.3,26.0,2011
+28,Pohang University of Science and Technology,South Korea,69.5,32.6,62.5,96.5,100.0,75.1,4.0,2011
+29,"University of California, Santa Barbara",United States of America,56.6,64.3,68.0,98.8,89.8,75.0,11.0,2011
+30,University of British Columbia,Canada,65.1,93.3,74.8,80.3,42.6,73.8,25.0,2011
+30,University of North Carolina at Chapel Hill,United States of America,70.9,21.5,75.1,85.0,50.2,73.8,8.0,2011
+32,"University of California, San Diego",United States of America,59.8,31.6,76.3,90.8,51.8,73.2,11.0,2011
+33,University of Illinois at Urbana-Champaign,United States of America,68.1,55.9,80.9,72.9,,73.0,20.0,2011
+34,National University of Singapore,Singapore,65.5,97.8,72.6,78.7,40.5,72.9,34.0,2011
+35,McGill University,Canada,69.0,85.9,74.9,69.0,,71.7,23.0,2011
+36,University of Melbourne,Australia,58.7,88.0,69.2,83.3,47.7,71.0,35.0,2011
+37,Peking University,China,76.4,68.6,61.3,72.2,98.6,70.7,14.0,2011
+38,Washington University in St Louis,United States of America,58.9,56.4,63.0,88.6,,69.9,17.0,2011
+39,École Polytechnique,France,57.9,77.9,56.1,91.4,,69.5,30.0,2011
+40,University of Edinburgh,United Kingdom,59.9,67.3,61.9,86.8,42.2,69.2,36.0,2011
+41,Hong Kong University of Science and Technology,Hong Kong,50.4,97.4,51.8,98.2,64.1,69.0,36.0,2011
+42,École Normale Supérieure,France,66.8,44.9,48.2,95.7,30.7,68.6,20.0,2011
+43,Australian National University,Australia,51.9,93.9,62.4,81.0,,67.0,35.0,2011
+43,Karolinska Institute,Sweden,65.8,,72.7,62.3,73.3,67.0,22.0,2011
+43,University of Göttingen,Germany,57.3,44.5,55.9,92.5,31.7,67.0,12.0,2011
+43,University of Wisconsin,United States of America,55.5,43.7,64.6,83.4,,67.0,,2011
+47,Rice University,United States of America,57.4,31.2,50.6,99.1,29.2,66.9,26.0,2011
+48,École Polytechnique Fédérale de Lausanne,Switzerland,55.0,100.0,56.1,83.8,38.0,66.5,54.0,2011
+49,"University of California, Irvine",United States of America,49.4,66.3,54.7,91.6,,66.0,16.0,2011
+49,University of Science and Technology of China,China,57.5,,48.6,92.7,30.3,66.0,2.0,2011
+51,Vanderbilt University,United States of America,64.9,22.1,59.5,78.1,84.2,65.9,10.0,2011
+52,University of Minnesota,United States of America,57.6,23.0,69.1,76.4,,65.6,13.0,2011
+53,Tufts University,United States of America,64.1,28.3,52.3,83.9,,65.2,14.0,2011
+54,"University of California, Davis",United States of America,57.3,60.5,70.7,68.8,48.0,65.0,13.0,2011
+55,Brown University,United States of America,59.7,60.5,57.0,77.7,,64.9,19.0,2011
+56,University of Massachusetts,United States of America,61.3,22.6,72.6,67.9,53.9,64.7,11.0,2011
+57,Kyoto University,Japan,78.9,18.4,77.7,46.3,67.1,64.6,7.0,2011
+58,Tsinghua University,China,74.9,43.0,66.6,52.7,97.8,64.2,10.0,2011
+59,Boston University,United States of America,53.6,38.1,51.9,91.4,29.6,64.0,17.0,2011
+60,New York University,United States of America,62.0,31.8,50.7,82.9,,63.9,19.0,2011
+61,Emory University,United States of America,63.4,52.3,48.4,77.8,,63.0,18.0,2011
+61,LMU Munich,Germany,59.1,43.1,57.5,76.4,40.4,63.0,13.0,2011
+63,University of Notre Dame,United States of America,56.4,35.6,45.1,89.1,,62.8,10.0,2011
+64,University of Pittsburgh,United States of America,58.5,25.2,58.3,78.3,37.9,62.7,10.0,2011
+65,Case Western Reserve University,United States of America,67.2,56.5,53.8,66.0,,62.2,17.0,2011
+66,Ohio State University,United States of America,63.5,64.0,54.9,67.2,,62.1,12.0,2011
+67,University of Colorado Boulder,United States of America,46.4,31.7,58.1,83.4,,61.6,8.0,2011
+68,University of Bristol,United Kingdom,49.6,67.2,53.1,80.9,36.2,61.4,25.0,2011
+68,"University of California, Santa Cruz",United States of America,38.3,16.7,50.4,99.6,,61.4,1.0,2011
+68,Yeshiva University,United States of America,63.5,53.3,46.7,74.4,,61.4,7.0,2011
+71,University of Sydney,Australia,49.8,89.6,61.9,64.3,90.8,61.2,28.0,2011
+72,University of Virginia,United States of America,62.0,42.2,55.4,68.6,,61.1,12.0,2011
+73,University of Adelaide,Australia,46.5,87.5,38.8,90.5,52.7,60.7,26.0,2011
+73,University of Southern California,United States of America,65.4,31.2,48.7,71.9,,60.7,20.0,2011
+75,William & Mary,United States of America,53.1,20.9,36.1,95.6,,60.4,7.0,2011
+76,Trinity College Dublin,Republic of Ireland,47.7,84.2,45.3,84.4,31.6,60.3,25.0,2011
+77,King’s College London,United Kingdom,48.5,85.9,54.5,72.1,44.1,59.7,37.0,2011
+78,Stony Brook University,United States of America,48.5,52.2,43.6,85.8,,59.6,24.0,2011
+79,Korea Advanced Institute of Science and Technology (KAIST),South Korea,71.3,36.7,63.4,45.5,100.0,59.5,9.0,2011
+79,University of Sussex,United Kingdom,42.4,72.8,42.4,91.6,29.1,59.5,35.0,2011
+81,The University of Queensland,Australia,51.8,74.2,53.4,69.0,57.1,59.1,27.0,2011
+81,University of York,United Kingdom,47.9,66.6,46.2,81.9,36.2,59.1,,2011
+83,Heidelberg University,Germany,59.2,63.4,47.5,70.3,39.1,59.0,17.0,2011
+83,University of Utah,United States of America,55.8,22.5,54.2,72.0,,59.0,9.0,2011
+85,Durham University,United Kingdom,39.8,65.7,44.1,91.0,33.9,58.9,24.0,2011
+86,London School of Economics and Political Science,United Kingdom,62.4,99.5,56.2,51.6,38.4,58.3,,2011
+87,University of Manchester,United Kingdom,56.5,79.1,56.2,59.2,39.0,58.0,34.0,2011
+88,"Royal Holloway, University of London",United Kingdom,37.7,92.9,36.2,93.2,30.5,57.9,37.0,2011
+89,Lund University,Sweden,46.3,56.8,60.8,67.6,33.2,57.8,15.0,2011
+90,University of Southampton,United Kingdom,50.8,69.0,47.8,72.9,37.7,57.7,29.0,2011
+90,University of Zurich,Switzerland,56.6,87.9,47.0,65.0,43.8,57.7,19.0,2011
+90,Wake Forest University,United States of America,54.6,24.4,42.9,79.2,,57.7,5.0,2011
+93,McMaster University,Canada,44.7,,58.7,68.5,,57.6,15.0,2011
+94,University College Dublin,Republic of Ireland,42.4,87.0,36.6,86.3,,57.5,23.0,2011
+95,George Washington University,United States of America,60.6,39.6,43.1,70.2,,57.3,16.0,2011
+95,University of Arizona,United States of America,52.4,21.9,52.2,70.1,84.2,57.3,8.0,2011
+95,University of Basel,Switzerland,50.2,91.3,37.1,78.3,45.8,57.3,24.0,2011
+98,"University of Maryland, College Park",United States of America,45.4,35.4,48.6,79.2,,57.2,9.0,2011
+99,Dartmouth College,United States of America,44.7,31.0,49.2,79.7,,57.1,16.0,2011
+100,École Normale Supérieure de Lyon,France,51.1,37.6,34.4,88.8,26.1,57.0,14.0,2011
+101,Technical University of Munich,Germany,50.4,85.3,43.2,71.2,,56.9,20.0,2011
+102,University of Helsinki,Finland,49.0,24.2,51.4,75.4,30.2,56.6,6.0,2011
+103,University of St Andrews,United Kingdom,44.8,85.7,47.7,72.9,32.6,56.5,47.0,2011
+104,Rensselaer Polytechnic Institute,United States of America,50.5,48.0,54.6,64.9,,56.4,16.0,2011
+105,"Rutgers, the State University of New Jersey",United States of America,53.4,26.8,64.7,55.7,,56.3,8.0,2011
+106,Purdue University,United States of America,57.0,62.6,67.8,43.9,,56.2,22.0,2011
+107,National Tsing Hua University,Taiwan,52.2,34.1,52.6,66.9,50.2,56.1,5.0,2011
+107,University of Cape Town,South Africa,36.6,83.3,42.1,82.8,,56.1,18.0,2011
+109,Pennsylvania State University,United States of America,46.3,19.9,49.2,77.6,44.0,56.0,12.0,2011
+109,Seoul National University,South Korea,62.3,44.9,54.1,54.6,43.0,56.0,10.0,2011
+111,Hong Kong Baptist University,Hong Kong,32.9,71.8,32.5,97.6,26.7,55.6,25.0,2011
+112,Bilkent University,Turkey,34.3,47.7,36.1,95.7,32.4,55.4,,2011
+112,Tokyo Institute of Technology,Japan,62.9,24.8,63.4,45.5,60.5,55.4,13.0,2011
+114,Eindhoven University of Technology,Netherlands,55.4,44.9,51.7,56.9,99.8,55.3,14.0,2011
+115,National Taiwan University,Taiwan,50.3,29.2,59.0,61.6,35.7,55.2,7.0,2011
+115,University of Hawai’i at Mānoa,United States of America,38.3,34.2,47.6,81.0,,55.2,,2011
+117,"University of California, Riverside",United States of America,38.6,63.0,47.4,78.3,30.5,55.1,12.0,2011
+118,University of Geneva,Switzerland,46.6,95.7,49.7,63.1,32.7,55.0,39.0,2011
+119,KU Leuven,Belgium,57.7,29.6,62.9,45.2,97.7,54.8,18.0,2011
+120,Nanjing University,China,52.2,50.2,46.2,66.0,43.4,54.6,10.0,2011
+120,Queen Mary University of London,United Kingdom,39.7,91.0,44.1,73.5,38.9,54.6,40.0,2011
+122,Michigan State University,United States of America,50.4,30.4,52.7,63.7,,54.5,15.0,2011
+122,Technical University of Denmark,Denmark,46.2,64.0,46.9,64.6,95.5,54.5,18.0,2011
+124,Ghent University,Belgium,52.8,24.7,59.1,52.8,97.1,54.4,9.0,2011
+124,Lancaster University,United Kingdom,43.5,73.8,41.9,74.9,28.8,54.4,33.0,2011
+124,Leiden University,Netherlands,47.3,40.0,54.9,59.3,100.0,54.4,10.0,2011
+127,University of Alberta,Canada,53.7,71.6,58.0,49.7,44.5,54.3,23.0,2011
+128,University of Glasgow,United Kingdom,45.6,55.1,50.3,65.1,61.0,54.2,29.0,2011
+129,Stockholm University,Sweden,36.9,,49.2,75.9,31.7,54.0,8.0,2011
+130,Osaka University,Japan,61.7,20.1,63.4,40.0,73.4,53.4,9.0,2011
+130,University of Victoria,Canada,32.9,,48.3,79.1,27.4,53.4,11.0,2011
+132,Tohoku University,Japan,60.3,20.1,62.5,41.2,82.3,53.3,7.0,2011
+132,University of Freiburg,Germany,52.4,46.2,41.4,64.3,79.8,53.3,16.0,2011
+132,University of Iowa,United States of America,48.6,31.7,59.8,54.8,,53.3,11.0,2011
+135,University of Bergen,Norway,39.9,66.6,42.1,73.1,41.5,52.7,12.0,2011
+136,University of Lausanne,Switzerland,43.1,84.1,50.5,59.1,42.5,52.6,22.0,2011
+137,University of Sheffield,United Kingdom,48.9,62.7,49.2,58.4,40.3,52.5,31.0,2011
+138,University of Montreal,Canada,56.1,,49.4,51.9,,52.4,25.0,2011
+139,VU University Amsterdam,Netherlands,47.6,30.6,51.6,58.5,81.4,52.3,6.0,2011
+140,Pierre and Marie Curie University,France,51.9,30.7,37.2,71.5,26.4,52.2,18.0,2011
+140,University of Dundee,United Kingdom,34.1,54.4,41.0,79.3,49.3,52.2,25.0,2011
+142,University of Barcelona,Spain,34.1,22.3,33.7,91.9,30.0,52.1,10.0,2011
+143,Utrecht University,Netherlands,43.4,52.6,53.0,58.8,55.3,52.0,7.0,2011
+144,Wageningen University and Research Center,Netherlands,58.5,24.3,48.8,53.0,,51.9,21.0,2011
+145,University of Auckland,New Zealand,34.8,94.3,39.2,71.8,61.1,51.8,28.0,2011
+145,University of Birmingham,United Kingdom,50.3,73.8,50.7,52.1,34.8,51.8,23.0,2011
+147,Alexandria University,Egypt,29.5,19.3,28.0,99.8,36.0,51.6,1.0,2011
+147,Uppsala University,Sweden,49.6,77.9,62.2,40.7,39.5,51.6,12.0,2011
+149,Hong Kong Polytechnic University,Hong Kong,39.4,82.9,45.7,62.4,57.2,51.4,26.0,2011
+149,University of Aberdeen,United Kingdom,37.8,86.1,45.2,64.6,47.0,51.4,33.0,2011
+151,Delft University of Technology,Netherlands,55.5,47.4,67.7,29.0,99.4,51.3,25.0,2011
+152,"Birkbeck, University of London",United Kingdom,41.2,88.5,35.8,70.6,27.4,51.2,38.0,2011
+152,Newcastle University,United Kingdom,42.7,80.5,42.8,63.6,31.1,51.2,29.0,2011
+152,University of New South Wales,Australia,49.5,70.7,48.9,51.2,60.0,51.2,33.0,2011
+155,Pompeu Fabra University,Spain,35.0,44.1,33.0,84.7,40.0,51.1,13.0,2011
+156,Indiana University,United States of America,48.5,37.7,42.5,63.2,,51.0,13.0,2011
+156,Iowa State University,United States of America,49.3,23.2,49.6,58.2,49.6,51.0,11.0,2011
+158,Georgia Health Sciences University,United States of America,67.3,16.3,41.7,48.9,50.1,50.7,,2011
+159,Erasmus University Rotterdam,Netherlands,39.4,58.6,43.6,65.5,,50.4,18.0,2011
+159,University of Delaware,United States of America,38.4,16.8,51.9,61.3,100.0,50.4,10.0,2011
+161,Arizona State University,United States of America,43.0,24.1,44.1,66.9,,50.3,9.0,2011
+161,Boston College,United States of America,40.1,31.6,33.6,78.0,,50.3,19.0,2011
+163,National Sun Yat-Sen University,Taiwan,46.1,21.3,50.6,58.9,37.5,50.2,4.0,2011
+164,Georgetown University,United States of America,65.1,24.7,44.7,45.0,,50.1,14.0,2011
+165,University of Amsterdam,Netherlands,42.5,38.2,49.2,60.2,38.8,50.0,11.0,2011
+165,University of Liverpool,United Kingdom,40.8,59.8,47.8,59.6,40.6,50.0,30.0,2011
+167,Aarhus University,Denmark,38.1,33.4,55.6,57.3,61.5,49.9,14.0,2011
+168,University of Leeds,United Kingdom,46.2,50.0,48.0,55.6,38.3,49.8,21.0,2011
+168,University of Würzburg,Germany,48.7,40.3,40.9,60.4,,49.8,8.0,2011
+170,University of Groningen,Netherlands,41.7,35.5,56.4,54.1,34.2,49.7,12.0,2011
+171,Sun Yat-sen University,China,46.2,29.3,34.7,70.2,41.2,49.6,8.0,2011
+172,Goethe University Frankfurt,Germany,39.2,56.1,37.3,69.5,41.6,49.4,15.0,2011
+173,Bielefeld University,Germany,39.9,,35.7,70.4,,49.3,8.0,2011
+174,Nanyang Technological University,Singapore,43.6,96.3,51.7,45.0,40.0,49.0,33.0,2011
+174,University of East Anglia,United Kingdom,42.1,62.8,40.4,62.8,29.7,49.0,28.0,2011
+174,University of Nottingham,United Kingdom,46.8,74.8,44.1,52.5,38.4,49.0,27.0,2011
+177,University of Copenhagen,Denmark,44.1,45.8,45.7,58.3,26.1,48.8,19.0,2011
+178,Humboldt University of Berlin,Germany,50.9,46.1,44.5,52.0,27.8,48.5,16.0,2011
+178,Monash University,Australia,39.4,87.1,38.8,60.5,40.8,48.5,36.0,2011
+178,University of Bonn,Germany,46.8,46.8,33.8,65.3,29.4,48.5,13.0,2011
+181,National Chiao Tung University,Taiwan,53.2,57.9,54.4,32.9,98.7,48.3,5.0,2011
+182,RWTH Aachen University,Germany,50.0,63.8,42.5,48.9,56.6,48.2,16.0,2011
+183,Middle East Technical University,Turkey,39.5,27.2,39.5,66.4,43.9,47.7,7.0,2011
+184,University of Exeter,United Kingdom,40.4,62.8,42.5,57.9,32.2,47.6,28.0,2011
+185,University of Twente,Netherlands,49.9,62.4,48.3,42.0,49.8,47.5,26.0,2011
+186,University of Konstanz,Germany,42.7,93.6,40.1,51.3,,47.3,12.0,2011
+187,Karlsruhe Institute of Technology,Germany,45.0,47.3,35.4,60.7,40.0,47.2,16.0,2011
+187,University of Innsbruck,Austria,37.9,99.5,34.8,60.2,35.0,47.2,39.0,2011
+189,University of Tübingen,Germany,45.9,57.8,36.3,57.3,32.3,47.0,12.0,2011
+190,Drexel University,United States of America,45.0,60.6,35.9,58.2,27.4,46.9,18.0,2011
+190,University of Cincinnati,United States of America,43.6,18.9,40.4,61.5,32.5,46.9,6.0,2011
+190,Yonsei University,South Korea,43.0,28.0,48.7,52.2,40.4,46.9,14.0,2011
+193,Dalhousie University,Canada,41.6,44.9,50.2,48.8,,46.8,18.0,2011
+193,KTH Royal Institute of Technology,Sweden,49.1,64.2,56.2,29.2,100.0,46.8,21.0,2011
+195,University of Vienna,Austria,47.6,63.2,45.7,45.6,27.0,46.7,25.0,2011
+196,Kent State University,United States of America,33.5,15.9,33.3,76.8,26.3,46.5,8.0,2011
+197,University of Illinois at Chicago,United States of America,57.8,51.8,46.8,34.7,,46.4,17.0,2011
+197,Zhejiang University,China,54.6,29.6,41.3,44.3,70.3,46.4,5.0,2011
+199,Simon Fraser University,Canada,32.9,51.9,44.2,60.2,37.9,46.2,19.0,2011
+199,Swedish University of Agricultural Sciences,Sweden,43.3,,49.5,41.7,99.9,46.2,,2011
+1,California Institute of Technology,United States of America,95.7,56.0,98.2,99.9,97.0,94.8,27.0,2012
+2,Harvard University,United States of America,95.8,67.5,97.4,99.8,35.9,93.9,25.0,2012
+2,Stanford University,United States of America,94.8,57.2,98.9,99.8,63.8,93.9,22.0,2012
+4,University of Oxford,United Kingdom,89.5,91.9,96.6,97.9,62.1,93.6,34.0,2012
+5,Princeton University,United States of America,91.5,49.6,99.1,100.0,81.0,92.9,27.0,2012
+6,University of Cambridge,United Kingdom,90.5,85.3,94.2,97.3,55.5,92.4,34.0,2012
+7,Massachusetts Institute of Technology,United States of America,92.7,79.2,87.4,100.0,94.4,92.3,33.0,2012
+8,Imperial College London,United Kingdom,88.8,92.2,88.7,93.9,93.1,90.7,51.0,2012
+9,University of Chicago,United States of America,89.4,58.8,90.8,99.4,,90.2,21.0,2012
+10,"University of California, Berkeley",United States of America,82.8,50.4,99.4,99.4,62.5,89.8,15.0,2012
+11,Yale University,United States of America,92.3,55.5,91.2,96.7,34.7,89.1,20.0,2012
+12,Columbia University,United States of America,89.1,67.6,81.8,97.8,,87.5,28.0,2012
+13,"University of California, Los Angeles",United States of America,85.9,41.0,92.5,97.3,,87.3,15.0,2012
+14,Johns Hopkins University,United States of America,78.9,59.9,86.5,97.3,100.0,85.8,23.0,2012
+15,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,79.1,97.5,85.8,87.2,,85.0,37.0,2012
+16,University of Pennsylvania,United States of America,87.0,34.3,86.1,97.9,41.9,84.9,20.0,2012
+17,University College London,United Kingdom,77.8,91.8,84.3,89.0,41.4,83.2,46.0,2012
+18,University of Michigan,United States of America,75.4,47.2,90.0,94.3,53.3,82.8,16.0,2012
+19,University of Toronto,Canada,76.9,69.0,87.4,86.5,44.9,81.6,15.0,2012
+20,Cornell University,United States of America,70.4,53.4,87.2,93.5,,80.5,19.0,2012
+21,Carnegie Mellon University,United States of America,65.7,55.0,79.5,97.4,60.7,78.4,35.0,2012
+22,Duke University,United States of America,62.6,46.9,77.9,97.4,100.0,77.4,17.0,2012
+22,University of British Columbia,Canada,68.6,88.7,78.6,85.2,40.6,77.4,25.0,2012
+24,Georgia Institute of Technology,United States of America,66.6,65.0,73.8,91.9,99.2,77.0,26.0,2012
+25,University of Washington,United States of America,70.8,36.9,74.0,98.2,31.8,76.5,13.0,2012
+26,Northwestern University,United States of America,66.3,35.3,75.5,98.6,56.6,76.2,15.0,2012
+27,University of Wisconsin-Madison,United States of America,74.3,23.8,77.3,90.6,55.3,75.8,11.0,2012
+28,McGill University,Canada,72.8,81.4,78.4,77.1,35.1,75.5,23.0,2012
+29,University of Texas at Austin,United States of America,69.5,38.8,76.1,89.6,57.7,74.9,9.0,2012
+30,University of Tokyo,Japan,86.1,23.0,80.3,69.1,76.6,74.3,10.0,2012
+31,University of Illinois at Urbana-Champaign,United States of America,67.9,50.7,81.3,81.5,,74.2,20.0,2012
+32,Karolinska Institute,Sweden,69.9,82.0,73.8,73.1,78.5,73.1,22.0,2012
+33,"University of California, San Diego",United States of America,61.4,31.5,72.0,97.8,51.8,73.0,11.0,2012
+34,University of Hong Kong,Hong Kong,74.0,83.7,80.1,60.5,64.1,72.3,38.0,2012
+35,"University of California, Santa Barbara",United States of America,55.0,52.6,65.3,99.9,85.0,72.1,11.0,2012
+36,University of Edinburgh,United Kingdom,63.0,79.8,61.4,92.3,41.3,72.0,36.0,2012
+37,University of Melbourne,Australia,62.2,82.5,72.4,80.7,44.4,71.9,35.0,2012
+38,Australian National University,Australia,62.8,93.8,75.1,72.6,41.7,71.2,35.0,2012
+38,"University of California, Davis",United States of America,68.0,51.4,68.7,83.4,52.5,71.2,13.0,2012
+40,National University of Singapore,Singapore,65.7,93.0,79.0,63.4,60.7,70.9,34.0,2012
+41,Washington University in St Louis,United States of America,64.0,45.7,58.9,96.1,,70.5,17.0,2012
+42,University of Minnesota,United States of America,66.1,25.6,72.5,85.4,,70.0,13.0,2012
+43,University of North Carolina at Chapel Hill,United States of America,67.6,20.2,62.6,92.6,35.5,69.3,8.0,2012
+44,New York University,United States of America,60.2,38.1,65.4,92.3,30.9,69.0,19.0,2012
+45,LMU Munich,Germany,63.8,54.3,59.9,84.6,40.7,67.6,13.0,2012
+46,École Polytechnique Fédérale de Lausanne,Switzerland,53.1,98.9,43.9,95.3,46.7,66.3,54.0,2012
+47,London School of Economics and Political Science,United Kingdom,66.4,96.0,75.4,50.6,41.1,66.0,,2012
+48,University of Manchester,United Kingdom,59.0,80.4,61.1,75.6,37.7,65.7,34.0,2012
+49,Brown University,United States of America,59.8,33.4,53.6,93.9,34.9,65.6,19.0,2012
+49,Peking University,China,82.3,51.7,64.1,51.0,99.9,65.6,14.0,2012
+51,Pennsylvania State University,United States of America,53.5,29.5,66.7,83.4,61.6,64.9,12.0,2012
+52,Kyoto University,Japan,76.4,21.1,72.0,56.3,71.7,64.8,7.0,2012
+53,Pohang University of Science and Technology,South Korea,56.4,25.0,51.9,92.3,100.0,64.6,4.0,2012
+54,Boston University,United States of America,60.7,37.2,46.2,95.6,27.6,64.2,17.0,2012
+55,University of Southern California,United States of America,65.8,41.1,48.7,80.2,99.3,64.0,20.0,2012
+56,King’s College London,United Kingdom,49.8,90.0,54.2,80.9,40.8,63.2,37.0,2012
+57,Ohio State University,United States of America,61.8,42.2,56.2,77.5,49.9,63.0,12.0,2012
+58,University of Sydney,Australia,55.4,88.1,65.7,57.2,92.1,62.4,28.0,2012
+59,University of Pittsburgh,United States of America,54.3,26.5,53.9,88.7,37.5,62.0,10.0,2012
+59,École Normale Supérieure,France,56.6,66.2,33.5,96.4,44.7,62.0,20.0,2012
+61,University of Zurich,Switzerland,56.7,87.4,45.9,78.4,43.5,61.9,19.0,2012
+62,Hong Kong University of Science and Technology,Hong Kong,51.0,80.1,58.6,71.0,59.0,61.7,36.0,2012
+63,École Polytechnique,France,50.4,86.1,38.8,89.1,63.0,61.5,30.0,2012
+64,University of Massachusetts,United States of America,54.0,27.3,58.3,80.1,53.2,61.1,11.0,2012
+65,McMaster University,Canada,41.9,72.0,49.9,85.5,97.5,61.0,15.0,2012
+66,University of Bristol,United Kingdom,44.2,73.7,47.7,89.9,34.8,60.9,25.0,2012
+67,KU Leuven,Belgium,52.5,56.7,64.7,63.0,99.9,60.8,18.0,2012
+68,Utrecht University,Netherlands,42.8,58.1,53.2,85.7,59.3,60.4,7.0,2012
+69,University of Göttingen,Germany,51.4,48.0,50.9,84.1,32.7,60.3,12.0,2012
+70,Vanderbilt University,United States of America,52.1,26.8,47.6,86.8,64.4,59.6,10.0,2012
+71,Tsinghua University,China,74.1,33.4,70.1,37.4,99.8,59.5,10.0,2012
+72,Rice University,United States of America,45.9,39.7,38.0,99.9,36.2,59.0,26.0,2012
+73,Heidelberg University,Germany,57.1,62.3,41.5,78.5,37.6,58.7,17.0,2012
+74,The University of Queensland,Australia,47.5,80.8,52.3,70.2,62.6,58.6,27.0,2012
+75,Emory University,United States of America,48.4,37.3,39.8,90.9,34.4,57.4,18.0,2012
+75,Wageningen University and Research Center,Netherlands,50.1,75.9,47.6,66.3,100.0,57.4,21.0,2012
+77,Tufts University,United States of America,45.8,41.3,37.4,94.5,35.4,57.3,14.0,2012
+77,University of Colorado Boulder,United States of America,39.5,30.8,42.6,98.2,,57.3,8.0,2012
+79,Leiden University,Netherlands,45.4,54.4,55.3,71.7,48.6,57.0,10.0,2012
+80,Lund University,Sweden,40.4,61.2,58.5,72.8,32.6,56.9,15.0,2012
+81,"Rutgers, the State University of New Jersey",United States of America,51.6,25.3,60.0,69.0,,56.8,8.0,2012
+81,University of Rochester,United States of America,47.0,45.7,33.5,94.5,36.4,56.8,26.0,2012
+83,Durham University,United Kingdom,32.5,75.8,37.9,96.2,30.5,56.4,24.0,2012
+84,Pierre and Marie Curie University,France,56.3,66.7,30.5,81.1,26.2,56.0,18.0,2012
+85,University of St Andrews,United Kingdom,37.1,89.1,40.2,83.0,34.1,55.7,47.0,2012
+86,"University of California, Irvine",United States of America,36.2,36.3,42.3,93.5,45.6,55.4,16.0,2012
+87,Uppsala University,Sweden,47.2,59.1,65.1,53.3,43.4,55.2,12.0,2012
+88,Technical University of Munich,Germany,50.0,65.2,37.1,76.3,47.2,55.1,20.0,2012
+89,University of Notre Dame,United States of America,42.6,33.1,36.2,94.1,27.3,55.0,10.0,2012
+90,Dartmouth College,United States of America,44.8,30.6,38.7,89.9,,54.9,16.0,2012
+91,University of Helsinki,Finland,39.3,46.8,54.2,75.1,28.9,54.8,6.0,2012
+92,University of Amsterdam,Netherlands,41.7,56.4,54.7,68.3,42.5,54.7,11.0,2012
+93,Case Western Reserve University,United States of America,54.2,29.9,40.2,78.4,,54.6,17.0,2012
+94,Korea Advanced Institute of Science and Technology (KAIST),South Korea,64.2,29.3,54.6,47.1,100.0,54.5,9.0,2012
+94,"University of Maryland, College Park",United States of America,41.1,35.3,43.6,85.8,28.5,54.5,9.0,2012
+96,Michigan State University,United States of America,47.4,34.0,49.6,73.6,28.0,54.4,15.0,2012
+97,University of Arizona,United States of America,45.1,28.4,43.0,78.3,86.0,54.2,8.0,2012
+98,Purdue University,United States of America,56.6,52.6,49.4,57.8,,54.0,22.0,2012
+99,University of Sussex,United Kingdom,30.6,79.8,34.8,92.0,28.1,53.9,35.0,2012
+100,University of Alberta,Canada,50.6,71.9,54.4,51.7,53.7,53.7,23.0,2012
+101,University of Sheffield,United Kingdom,44.6,68.2,46.0,67.5,40.2,53.6,31.0,2012
+102,University of Glasgow,United Kingdom,37.5,68.1,41.0,77.5,61.4,53.4,29.0,2012
+103,University of Cape Town,South Africa,34.3,73.9,41.1,75.3,97.5,53.2,18.0,2012
+104,Delft University of Technology,Netherlands,53.5,71.3,66.1,31.2,100.0,53.1,25.0,2012
+104,University of Montreal,Canada,54.5,79.5,47.0,48.7,81.3,53.1,25.0,2012
+106,Ghent University,Belgium,41.1,47.3,52.2,63.4,97.8,53.0,9.0,2012
+107,"Royal Holloway, University of London",United Kingdom,28.6,93.3,24.1,98.2,25.9,52.9,37.0,2012
+108,Tokyo Institute of Technology,Japan,56.0,24.9,58.9,49.5,66.3,52.8,13.0,2012
+109,Humboldt University of Berlin,Germany,51.3,64.5,54.5,50.1,,52.6,16.0,2012
+110,"University of California, Santa Cruz",United States of America,28.5,29.8,36.6,99.9,29.5,52.5,1.0,2012
+111,University of Basel,Switzerland,38.9,92.4,21.9,86.0,48.6,52.2,24.0,2012
+112,University of Bern,Switzerland,43.0,77.6,34.6,73.5,38.2,52.1,14.0,2012
+113,University of Utah,United States of America,42.1,23.3,41.0,82.3,,51.9,9.0,2012
+114,Stony Brook University,United States of America,37.7,56.5,28.7,88.3,29.2,51.4,24.0,2012
+115,Eindhoven University of Technology,Netherlands,35.6,67.3,48.0,62.1,100.0,51.3,14.0,2012
+116,University of Lausanne,Switzerland,27.5,86.7,40.4,77.8,40.3,51.2,22.0,2012
+117,Monash University,Australia,40.5,75.8,48.5,57.1,62.2,51.1,36.0,2012
+117,Trinity College Dublin,Republic of Ireland,30.3,89.4,23.5,91.7,29.7,51.1,25.0,2012
+119,Osaka University,Japan,61.8,21.1,56.5,40.0,75.0,51.0,9.0,2012
+120,Tohoku University,Japan,57.7,25.6,55.7,42.9,78.9,50.8,7.0,2012
+121,Hebrew University of Jerusalem,Israel,47.7,53.0,56.4,48.4,25.0,50.4,5.0,2012
+121,University of York,United Kingdom,36.7,72.7,38.8,71.6,33.9,50.4,,2012
+123,Indiana University,United States of America,46.8,37.7,34.5,73.7,,50.2,13.0,2012
+124,Seoul National University,South Korea,64.6,16.3,50.8,44.0,42.6,50.1,10.0,2012
+125,Aarhus University,Denmark,30.7,69.3,49.0,64.0,67.0,50.0,14.0,2012
+125,University of Florida,United States of America,46.7,25.9,59.9,50.9,,50.0,9.0,2012
+127,Arizona State University,United States of America,38.2,26.1,39.0,80.3,28.7,49.9,9.0,2012
+127,Queen Mary University of London,United Kingdom,29.0,88.8,28.6,83.7,36.6,49.9,40.0,2012
+127,University of Southampton,United Kingdom,35.6,78.3,35.5,72.5,39.3,49.9,29.0,2012
+130,University of Geneva,Switzerland,34.9,97.5,39.0,65.1,32.7,49.8,39.0,2012
+131,Lancaster University,United Kingdom,32.6,78.6,35.7,75.4,27.5,49.7,33.0,2012
+131,Stockholm University,Sweden,25.0,48.8,36.0,90.2,26.8,49.7,8.0,2012
+133,University of Leeds,United Kingdom,44.6,64.8,43.9,57.1,36.4,49.5,21.0,2012
+134,University of Groningen,Netherlands,32.4,47.3,52.4,62.4,59.9,49.2,12.0,2012
+135,George Washington University,United States of America,44.2,38.3,33.6,73.2,,49.0,16.0,2012
+135,University of Copenhagen,Denmark,37.8,74.8,31.6,72.1,37.0,49.0,19.0,2012
+135,University of Virginia,United States of America,37.0,26.4,42.2,74.7,34.7,49.0,12.0,2012
+138,Georgetown University,United States of America,52.5,29.1,40.4,57.7,,48.0,14.0,2012
+139,University of Vienna,Austria,49.5,86.6,41.2,45.2,25.4,47.9,25.0,2012
+140,University of Nottingham,United Kingdom,40.2,72.6,40.0,57.6,36.7,47.7,27.0,2012
+141,University of Iowa,United States of America,47.7,21.9,42.1,61.3,,47.6,11.0,2012
+141,École Normale Supérieure de Lyon,France,35.3,58.8,21.4,85.1,25.1,47.6,14.0,2012
+143,"University of California, Riverside",United States of America,27.8,30.0,30.9,89.6,31.0,47.5,12.0,2012
+144,Rensselaer Polytechnic Institute,United States of America,31.7,32.7,40.4,73.6,49.0,47.4,16.0,2012
+145,University of East Anglia,United Kingdom,26.5,68.5,26.1,85.6,28.0,47.3,28.0,2012
+146,Newcastle University,United Kingdom,34.2,76.2,28.4,72.2,32.3,47.0,29.0,2012
+146,William & Mary,United States of America,40.0,19.7,18.9,90.7,27.0,47.0,7.0,2012
+148,University of Birmingham,United Kingdom,42.6,70.3,42.6,50.6,36.0,46.9,23.0,2012
+149,"Birkbeck, University of London",United Kingdom,25.9,85.3,25.8,80.8,25.1,46.8,38.0,2012
+150,Brandeis University,United States of America,25.3,40.3,27.3,90.2,33.7,46.7,22.0,2012
+151,Chinese University of Hong Kong,Hong Kong,47.0,69.5,50.2,37.8,36.4,46.6,22.0,2012
+151,Free University of Berlin,Germany,46.3,62.1,48.5,42.5,30.6,46.6,20.0,2012
+151,University of Aberdeen,United Kingdom,30.6,84.8,32.2,67.7,44.4,46.6,33.0,2012
+154,National Taiwan University,Taiwan,47.8,20.7,58.5,39.2,40.0,46.2,7.0,2012
+154,Yeshiva University,United States of America,43.6,26.4,27.0,75.3,,46.2,7.0,2012
+156,University of Exeter,United Kingdom,31.3,73.4,33.3,67.8,35.4,46.1,28.0,2012
+157,Erasmus University Rotterdam,Netherlands,28.8,65.0,27.2,77.4,45.0,46.0,18.0,2012
+157,University of Warwick,United Kingdom,39.7,85.5,44.5,45.0,31.3,46.0,37.0,2012
+159,Radboud University Nijmegen,Netherlands,27.7,52.3,43.8,65.5,33.1,45.9,10.0,2012
+159,University College Dublin,Republic of Ireland,25.2,83.2,23.7,80.5,32.3,45.9,23.0,2012
+159,VU University Amsterdam,Netherlands,30.4,48.0,35.3,70.2,63.2,45.9,6.0,2012
+162,Medical University of South Carolina,United States of America,43.9,23.9,38.9,56.6,87.8,45.8,,2012
+162,Wake Forest University,United States of America,36.4,17.2,21.6,86.1,49.1,45.8,5.0,2012
+164,Texas A&M University,United States of America,42.3,36.0,51.8,45.7,43.8,45.7,9.0,2012
+164,University of Reading,United Kingdom,36.9,75.1,38.6,55.4,31.6,45.7,28.0,2012
+166,Tel Aviv University,Israel,47.3,30.1,60.7,33.0,35.0,45.4,4.0,2012
+167,University of Illinois at Chicago,United States of America,53.3,27.2,43.9,43.3,38.6,45.2,17.0,2012
+168,RWTH Aachen University,Germany,36.1,67.1,25.1,67.2,61.8,45.1,16.0,2012
+169,Nanyang Technological University,Singapore,41.4,89.8,47.8,34.5,44.4,45.0,33.0,2012
+169,Paris Diderot University – Paris 7,France,23.3,70.7,18.7,88.9,,45.0,17.0,2012
+169,Université Catholique de Louvain,Belgium,29.2,72.5,34.7,65.5,30.8,45.0,19.0,2012
+172,University of Miami,United States of America,45.7,30.3,23.3,70.3,,44.8,14.0,2012
+173,Queen’s University,Canada,39.7,65.0,36.1,49.3,87.5,44.6,10.0,2012
+173,University of Auckland,New Zealand,28.3,92.9,35.0,55.7,76.6,44.6,28.0,2012
+173,University of New South Wales,Australia,36.1,85.1,40.2,46.8,53.1,44.6,33.0,2012
+176,University of Dundee,United Kingdom,20.8,62.5,20.1,87.1,55.3,44.5,25.0,2012
+177,University of Victoria,Canada,16.8,70.5,31.5,79.2,26.8,44.2,11.0,2012
+178,Technical University of Denmark,Denmark,31.9,65.2,24.1,66.8,95.7,44.1,18.0,2012
+178,University of São Paulo,Brazil,61.7,22.9,58.0,18.8,33.3,44.1,4.0,2012
+180,University of Delaware,United States of America,26.4,29.8,37.2,66.7,98.0,43.8,10.0,2012
+181,Goethe University Frankfurt,Germany,30.5,57.6,21.7,75.1,42.4,43.6,15.0,2012
+181,University of Liverpool,United Kingdom,34.8,73.1,33.5,55.6,37.1,43.6,30.0,2012
+181,University of Oslo,Norway,33.5,63.9,36.9,56.6,29.0,43.6,18.0,2012
+184,Iowa State University,United States of America,32.8,28.3,30.1,70.4,49.2,43.4,11.0,2012
+185,University of Ottawa,Canada,38.9,49.6,34.8,54.8,36.9,43.2,15.0,2012
+186,Pompeu Fabra University,Spain,23.4,54.3,16.1,87.6,37.6,43.1,13.0,2012
+187,KTH Royal Institute of Technology,Sweden,40.9,82.1,39.5,34.1,100.0,43.0,21.0,2012
+187,University of Tübingen,Germany,34.4,58.1,24.1,67.6,31.0,43.0,12.0,2012
+189,University of Freiburg,Germany,35.7,55.6,18.7,67.8,81.8,42.9,16.0,2012
+189,University of Western Australia,Australia,32.1,90.0,35.8,47.8,58.7,42.9,27.0,2012
+191,University of Bergen,Norway,29.0,73.5,26.6,65.2,42.1,42.8,12.0,2012
+192,University of Science and Technology of China,China,38.9,14.8,23.5,73.6,29.7,42.7,2.0,2012
+193,City University of Hong Kong,Hong Kong,30.2,61.6,35.0,57.4,50.1,42.6,28.0,2012
+194,University of Konstanz,Germany,29.0,63.7,29.7,62.8,49.9,42.5,12.0,2012
+195,Boston College,United States of America,26.5,41.4,18.9,83.5,24.2,42.4,19.0,2012
+196,Karlsruhe Institute of Technology,Germany,34.6,64.9,19.6,65.5,35.6,41.6,16.0,2012
+197,Georgia Health Sciences University,United States of America,49.0,32.1,14.2,63.5,40.7,41.5,,2012
+197,Maastricht University,Netherlands,30.6,86.4,30.5,53.9,,41.5,48.0,2012
+197,University of Leicester,United Kingdom,27.6,84.9,30.3,56.3,34.4,41.5,35.0,2012
+200,University of Twente,Netherlands,32.9,56.2,30.4,54.4,76.8,41.4,26.0,2012
+1,California Institute of Technology,United States of America,96.3,59.8,99.4,99.7,95.6,95.5,27.0,2013
+2,Stanford University,United States of America,95.0,56.6,98.8,99.3,62.4,93.7,22.0,2013
+2,University of Oxford,United Kingdom,89.7,88.7,98.1,95.6,79.8,93.7,34.0,2013
+4,Harvard University,United States of America,94.9,63.7,98.6,99.2,39.9,93.6,25.0,2013
+5,Massachusetts Institute of Technology,United States of America,92.9,81.6,89.2,99.9,92.9,93.1,33.0,2013
+6,Princeton University,United States of America,89.5,54.5,99.4,99.8,79.5,92.7,27.0,2013
+7,University of Cambridge,United Kingdom,91.2,83.6,95.6,96.2,59.1,92.6,34.0,2013
+8,Imperial College London,United Kingdom,88.0,91.4,90.9,93.0,87.5,90.6,51.0,2013
+9,"University of California, Berkeley",United States of America,85.1,49.7,99.3,99.3,65.4,90.5,15.0,2013
+10,University of Chicago,United States of America,89.6,55.3,92.9,98.7,,90.4,21.0,2013
+11,Yale University,United States of America,93.2,54.7,92.5,94.8,38.2,89.2,20.0,2013
+12,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,82.5,95.7,92.7,86.6,,87.8,37.0,2013
+13,"University of California, Los Angeles",United States of America,87.3,42.3,93.8,95.9,,87.7,15.0,2013
+14,Columbia University,United States of America,89.7,66.1,82.0,96.1,,87.0,28.0,2013
+15,University of Pennsylvania,United States of America,90.0,38.1,89.4,96.2,43.7,86.6,20.0,2013
+16,Johns Hopkins University,United States of America,81.8,57.3,85.5,95.3,100.0,85.6,23.0,2013
+17,University College London,United Kingdom,83.5,89.0,88.8,86.8,45.1,85.5,46.0,2013
+18,Cornell University,United States of America,77.0,53.8,92.1,91.8,39.5,83.3,19.0,2013
+19,Northwestern University,United States of America,77.6,33.8,87.3,98.2,64.4,83.1,15.0,2013
+20,University of Michigan,United States of America,76.1,47.6,91.4,91.6,53.9,82.6,16.0,2013
+21,University of Toronto,Canada,79.6,65.1,89.4,85.1,42.9,82.2,15.0,2013
+22,Carnegie Mellon University,United States of America,71.8,51.4,87.0,95.5,55.9,81.5,35.0,2013
+23,Duke University,United States of America,72.3,45.8,81.5,97.0,100.0,81.2,17.0,2013
+24,University of Washington,United States of America,74.7,39.1,81.3,97.0,41.3,79.9,13.0,2013
+25,Georgia Institute of Technology,United States of America,70.2,66.3,79.5,90.3,74.9,78.8,26.0,2013
+25,University of Texas at Austin,United States of America,75.5,42.1,80.7,91.0,57.9,78.8,9.0,2013
+27,University of Tokyo,Japan,87.9,27.6,89.9,71.3,59.0,78.3,10.0,2013
+28,University of Melbourne,Australia,68.4,77.2,82.5,83.7,67.6,77.9,35.0,2013
+29,National University of Singapore,Singapore,74.4,92.3,87.2,67.2,77.4,77.5,34.0,2013
+30,University of British Columbia,Canada,69.1,82.1,80.4,84.0,42.4,77.3,25.0,2013
+31,University of Wisconsin-Madison,United States of America,76.1,29.8,80.1,88.2,54.8,76.9,11.0,2013
+32,University of Edinburgh,United Kingdom,68.4,78.9,71.3,90.8,43.8,76.1,36.0,2013
+33,University of Illinois at Urbana-Champaign,United States of America,74.2,36.0,84.9,80.8,,75.8,20.0,2013
+34,McGill University,Canada,74.4,75.9,80.4,75.2,40.3,75.7,23.0,2013
+35,"University of California, Santa Barbara",United States of America,56.1,58.3,73.5,99.4,100.0,75.6,11.0,2013
+35,University of Hong Kong,Hong Kong,78.4,81.7,85.9,62.1,62.5,75.6,38.0,2013
+37,Australian National University,Australia,68.6,90.0,83.5,73.5,39.6,75.4,35.0,2013
+38,"University of California, San Diego",United States of America,63.4,34.2,79.0,96.2,43.9,75.2,11.0,2013
+39,London School of Economics and Political Science,United Kingdom,70.8,87.2,80.8,66.5,42.9,73.1,,2013
+40,École Polytechnique Fédérale de Lausanne,Switzerland,62.4,98.8,57.0,95.0,49.8,73.0,54.0,2013
+41,New York University,United States of America,73.8,38.7,67.4,89.2,29.5,72.8,19.0,2013
+42,Karolinska Institute,Sweden,66.3,64.5,75.7,77.3,71.4,72.4,22.0,2013
+42,University of North Carolina at Chapel Hill,United States of America,70.4,32.9,69.3,90.1,40.0,72.4,8.0,2013
+44,"University of California, Davis",United States of America,67.9,51.7,71.6,82.7,52.5,71.8,13.0,2013
+44,Washington University in St Louis,United States of America,66.0,44.3,62.8,95.2,,71.8,17.0,2013
+46,Peking University,China,81.5,54.1,67.9,64.3,99.9,70.7,14.0,2013
+47,University of Minnesota,United States of America,66.1,28.7,74.0,84.7,,70.5,13.0,2013
+48,LMU Munich,Germany,65.4,54.7,66.5,85.5,42.0,70.4,13.0,2013
+49,University of Manchester,United Kingdom,65.9,77.9,67.7,76.9,43.2,70.1,34.0,2013
+50,Pohang University of Science and Technology,South Korea,63.9,28.8,63.9,88.2,100.0,69.4,4.0,2013
+51,Brown University,United States of America,63.7,36.9,60.3,94.1,29.9,68.9,19.0,2013
+52,Tsinghua University,China,74.5,37.2,76.4,55.2,99.2,67.1,10.0,2013
+53,Ohio State University,United States of America,66.7,46.3,60.9,80.1,49.5,67.0,12.0,2013
+54,Boston University,United States of America,65.4,39.2,50.9,94.2,30.6,66.8,17.0,2013
+54,Kyoto University,Japan,77.1,26.3,74.8,57.8,76.4,66.8,7.0,2013
+56,University of Southern California,United States of America,68.4,43.4,57.1,81.9,33.5,66.3,20.0,2013
+57,King’s College London,United Kingdom,53.5,86.0,59.3,82.8,42.4,66.2,37.0,2013
+58,KU Leuven,Belgium,59.7,56.6,71.0,67.2,99.7,66.1,18.0,2013
+59,Seoul National University,South Korea,76.7,27.0,81.4,48.0,81.7,65.9,10.0,2013
+59,École Normale Supérieure,France,61.6,67.3,46.9,90.3,47.2,65.9,20.0,2013
+61,Pennsylvania State University,United States of America,55.0,34.9,69.2,81.4,59.7,65.8,12.0,2013
+62,University of Sydney,Australia,59.5,83.0,70.1,62.9,69.2,65.7,28.0,2013
+62,École Polytechnique,France,56.5,83.0,54.7,80.7,75.8,65.7,30.0,2013
+64,Leiden University,Netherlands,54.0,54.8,67.1,78.4,46.1,65.1,10.0,2013
+65,Hong Kong University of Science and Technology,Hong Kong,56.9,78.1,64.6,68.9,55.6,64.4,36.0,2013
+65,The University of Queensland,Australia,54.4,77.8,66.1,69.6,64.0,64.4,27.0,2013
+67,Utrecht University,Netherlands,48.0,47.3,64.7,82.4,82.6,64.1,7.0,2013
+68,Korea Advanced Institute of Science and Technology (KAIST),South Korea,69.9,31.1,68.9,58.4,100.0,64.0,9.0,2013
+69,Purdue University,United States of America,59.8,54.8,71.9,63.1,,63.8,22.0,2013
+70,University of Göttingen,Germany,50.0,51.0,52.5,92.5,34.4,63.2,12.0,2013
+70,Wageningen University and Research Center,Netherlands,54.9,79.2,53.7,73.8,100.0,63.2,21.0,2013
+72,Erasmus University Rotterdam,Netherlands,44.5,62.8,64.1,80.2,62.0,62.9,18.0,2013
+72,University of Massachusetts,United States of America,57.1,31.7,62.6,77.8,52.8,62.9,11.0,2013
+74,University of Bristol,United Kingdom,50.1,71.9,51.7,85.4,38.7,62.5,25.0,2013
+75,Rice University,United States of America,49.5,59.0,39.3,100.0,36.5,62.0,26.0,2013
+76,University of Pittsburgh,United States of America,54.6,29.4,55.1,85.2,39.3,61.7,10.0,2013
+77,Delft University of Technology,Netherlands,59.9,67.7,75.1,45.1,99.9,61.6,25.0,2013
+78,Heidelberg University,Germany,61.4,61.3,49.0,75.5,40.7,61.4,17.0,2013
+79,Emory University,United States of America,56.7,36.6,44.4,90.9,38.3,61.3,18.0,2013
+80,Durham University,United Kingdom,42.3,77.7,44.5,93.3,34.3,60.7,24.0,2013
+81,Pierre and Marie Curie University,France,59.2,64.4,43.5,80.6,28.6,60.5,18.0,2013
+82,Lund University,Sweden,43.6,64.4,61.3,77.1,34.2,60.3,15.0,2013
+83,University of Amsterdam,Netherlands,45.6,57.0,61.3,75.1,49.0,60.1,11.0,2013
+84,University of Montreal,Canada,54.0,74.6,57.9,60.9,95.0,59.8,25.0,2013
+85,University of New South Wales,Australia,52.6,84.8,63.8,56.7,50.5,59.6,33.0,2013
+86,Nanyang Technological University,Singapore,45.7,90.5,66.9,54.5,99.5,59.4,33.0,2013
+87,Tufts University,United States of America,52.6,39.6,36.4,94.8,39.4,59.1,14.0,2013
+88,McMaster University,Canada,42.3,66.9,47.9,81.7,98.0,59.0,15.0,2013
+89,University of Groningen,Netherlands,43.8,49.8,61.0,71.6,85.2,58.8,12.0,2013
+89,University of Zurich,Switzerland,50.0,84.1,41.6,80.0,38.3,58.8,19.0,2013
+91,University of Colorado Boulder,United States of America,42.3,34.7,44.4,97.1,,58.7,8.0,2013
+92,Paris-Sud University,France,48.0,63.9,45.9,82.9,28.4,58.6,17.0,2013
+93,Ghent University,Belgium,46.4,49.1,56.7,71.3,95.9,58.4,9.0,2013
+94,Michigan State University,United States of America,51.8,36.8,56.8,73.8,32.6,58.3,15.0,2013
+94,University of Notre Dame,United States of America,48.3,41.6,39.6,93.5,29.8,58.3,10.0,2013
+96,"University of California, Irvine",United States of America,44.0,35.2,47.2,90.3,42.1,58.2,16.0,2013
+97,"University of Maryland, College Park",United States of America,44.9,40.4,51.4,83.9,32.1,57.9,9.0,2013
+98,University of Arizona,United States of America,47.0,31.3,53.7,76.9,83.9,57.7,8.0,2013
+99,Humboldt University of Berlin,Germany,55.4,57.5,58.7,59.5,,57.5,16.0,2013
+99,Monash University,Australia,47.8,66.4,60.6,60.9,70.0,57.5,36.0,2013
+99,"Rutgers, the State University of New Jersey",United States of America,50.9,27.9,61.3,69.5,35.8,57.5,8.0,2013
+102,University of Rochester,United States of America,46.0,45.9,37.8,92.3,39.6,57.2,26.0,2013
+103,University of York,United Kingdom,41.9,71.9,43.9,83.4,38.4,57.1,,2013
+104,Case Western Reserve University,United States of America,56.5,34.2,42.0,80.4,,56.9,17.0,2013
+105,Technical University of Munich,Germany,51.2,61.5,42.4,76.5,49.7,56.8,20.0,2013
+106,Uppsala University,Sweden,48.6,56.3,63.9,58.2,44.1,56.6,12.0,2013
+106,Vanderbilt University,United States of America,51.5,27.5,40.9,85.0,53.0,56.6,10.0,2013
+108,University of St Andrews,United Kingdom,43.2,86.3,43.8,76.6,38.9,56.5,47.0,2013
+109,University of Helsinki,Finland,42.8,48.3,53.0,77.7,31.1,56.4,6.0,2013
+110,Trinity College Dublin,Republic of Ireland,41.9,84.5,33.5,88.1,32.8,56.2,25.0,2013
+110,University of Sheffield,United Kingdom,49.5,68.1,46.2,71.0,41.5,56.2,31.0,2013
+110,University of Sussex,United Kingdom,34.9,76.7,39.5,91.1,32.1,56.2,35.0,2013
+113,University of Cape Town,South Africa,34.7,75.1,45.5,79.7,87.3,55.8,18.0,2013
+114,Eindhoven University of Technology,Netherlands,44.1,69.8,51.8,63.8,100.0,55.6,14.0,2013
+115,Maastricht University,Netherlands,39.7,85.2,53.2,62.5,99.1,55.5,48.0,2013
+116,Aarhus University,Denmark,35.7,66.4,54.6,71.6,69.7,55.3,14.0,2013
+117,Stockholm University,Sweden,31.3,52.2,43.8,93.0,32.0,55.2,8.0,2013
+118,University of Virginia,United States of America,55.9,27.9,43.0,73.5,48.6,55.0,12.0,2013
+119,"Royal Holloway, University of London",United Kingdom,30.5,92.5,27.7,99.0,31.9,54.9,37.0,2013
+120,University of Nottingham,United Kingdom,48.1,70.1,50.8,62.8,38.3,54.8,27.0,2013
+121,University of Alberta,Canada,50.9,67.6,53.9,56.6,50.6,54.7,23.0,2013
+122,"University of California, Santa Cruz",United States of America,32.1,32.5,39.6,99.9,,54.5,1.0,2013
+122,University of Florida,United States of America,52.0,31.2,62.9,56.0,,54.5,9.0,2013
+124,Chinese University of Hong Kong,Hong Kong,53.7,62.6,63.1,45.1,44.5,54.4,22.0,2013
+124,Dartmouth College,United States of America,47.5,31.5,35.9,87.0,38.6,54.4,16.0,2013
+124,University of Warwick,United Kingdom,48.9,80.9,50.5,58.8,35.3,54.4,37.0,2013
+127,Radboud University Nijmegen,Netherlands,35.7,53.4,54.3,73.3,41.7,54.0,10.0,2013
+128,Free University of Berlin,Germany,53.1,60.9,56.5,51.5,32.8,53.7,20.0,2013
+128,Tokyo Institute of Technology,Japan,58.0,29.6,56.1,52.0,65.3,53.7,13.0,2013
+130,University of Copenhagen,Denmark,42.2,73.5,40.4,74.3,39.7,53.6,19.0,2013
+130,University of Lausanne,Switzerland,33.0,82.7,44.8,76.2,45.8,53.6,22.0,2013
+130,University of Southampton,United Kingdom,37.9,77.4,38.9,79.2,41.8,53.6,29.0,2013
+133,University of Geneva,Switzerland,36.2,95.3,42.5,73.1,32.4,53.5,39.0,2013
+134,Indiana University,United States of America,48.3,36.0,44.2,72.5,,53.2,13.0,2013
+134,National Taiwan University,Taiwan,56.4,24.6,65.7,45.5,44.0,53.2,7.0,2013
+134,University of Utah,United States of America,43.3,25.2,41.3,81.0,63.3,53.2,9.0,2013
+137,Hebrew University of Jerusalem,Israel,48.8,50.3,55.8,57.0,33.6,53.1,5.0,2013
+137,Tohoku University,Japan,57.7,32.0,55.6,48.9,80.7,53.1,7.0,2013
+139,University of Glasgow,United Kingdom,37.3,69.7,40.2,78.1,44.1,53.0,29.0,2013
+140,KTH Royal Institute of Technology,Sweden,47.5,86.1,49.7,49.1,100.0,52.9,21.0,2013
+140,VU University Amsterdam,Netherlands,40.5,47.1,45.1,74.2,58.5,52.9,6.0,2013
+142,University of Basel,Switzerland,37.1,89.8,23.2,87.8,64.2,52.8,24.0,2013
+142,University of Leeds,United Kingdom,41.5,66.6,48.6,65.8,41.3,52.8,21.0,2013
+144,University of Freiburg,Germany,48.3,54.9,33.0,72.4,81.1,52.3,16.0,2013
+145,Lancaster University,United Kingdom,37.7,76.2,40.9,73.2,31.8,52.1,33.0,2013
+145,Queen Mary University of London,United Kingdom,33.1,87.0,30.0,85.4,42.7,52.1,40.0,2013
+147,Osaka University,Japan,59.5,23.6,55.7,46.4,69.6,52.0,9.0,2013
+148,Arizona State University,United States of America,38.4,27.4,45.2,79.9,31.8,51.9,9.0,2013
+149,Technical University of Denmark,Denmark,37.9,77.0,30.0,76.9,98.7,51.7,18.0,2013
+150,Boston College,United States of America,34.5,52.4,33.2,88.7,,51.6,19.0,2013
+151,Karlsruhe Institute of Technology,Germany,46.3,64.5,38.9,63.4,82.9,51.5,16.0,2013
+151,University of Bern,Switzerland,43.0,77.3,36.0,69.7,42.0,51.5,14.0,2013
+153,University of Exeter,United Kingdom,33.2,74.1,38.1,78.1,37.1,51.3,28.0,2013
+154,RWTH Aachen University,Germany,45.3,53.9,32.4,73.8,63.1,51.1,16.0,2013
+154,"University of California, Riverside",United States of America,29.1,62.8,32.5,90.3,33.5,51.1,12.0,2013
+156,Texas A&M University,United States of America,46.4,47.2,58.3,49.3,45.5,50.9,9.0,2013
+156,Yeshiva University,United States of America,51.7,28.4,30.1,78.8,,50.9,7.0,2013
+158,Tel Aviv University,Israel,50.7,39.5,59.8,43.7,49.2,50.5,4.0,2013
+158,University of Birmingham,United Kingdom,44.8,69.7,46.7,56.3,38.4,50.5,23.0,2013
+158,University of São Paulo,Brazil,63.0,24.5,65.7,30.2,40.0,50.5,4.0,2013
+161,University of Auckland,New Zealand,34.0,88.0,40.9,64.2,76.6,50.3,28.0,2013
+162,Stony Brook University,United States of America,38.8,52.8,29.9,82.9,31.6,50.2,24.0,2013
+162,University of Vienna,Austria,44.3,86.3,46.7,52.4,29.1,50.2,25.0,2013
+164,Université Catholique de Louvain,Belgium,38.6,64.3,40.5,68.8,34.5,50.0,19.0,2013
+165,University of Delaware,United States of America,30.0,37.3,41.6,76.6,97.7,49.7,10.0,2013
+166,Paris Diderot University – Paris 7,France,31.9,66.8,27.1,87.9,,49.6,17.0,2013
+167,University of Texas at Dallas,United States of America,32.6,46.8,32.2,85.2,40.0,49.5,23.0,2013
+168,George Washington University,United States of America,48.1,36.6,28.0,77.1,30.0,49.4,16.0,2013
+169,University of Iowa,United States of America,49.0,26.4,40.9,65.7,,49.3,11.0,2013
+170,École Normale Supérieure de Lyon,France,40.8,61.0,25.9,79.6,28.9,49.2,14.0,2013
+171,University of Bonn,Germany,40.9,54.0,26.1,80.4,,49.0,13.0,2013
+171,University of Liverpool,United Kingdom,38.7,73.7,37.5,64.8,46.4,49.0,30.0,2013
+171,University of Ottawa,Canada,40.8,58.1,41.4,63.1,43.0,49.0,15.0,2013
+174,Georgetown University,United States of America,56.4,32.9,35.6,59.8,,48.9,14.0,2013
+174,Rensselaer Polytechnic Institute,United States of America,36.2,32.9,40.2,73.0,66.8,48.9,16.0,2013
+176,University of Aberdeen,United Kingdom,31.9,84.1,34.3,71.5,48.9,48.8,33.0,2013
+176,University of Adelaide,Australia,37.3,82.2,43.7,55.9,63.2,48.8,26.0,2013
+176,University of East Anglia,United Kingdom,29.6,68.9,27.7,85.5,30.7,48.8,28.0,2013
+176,University of Reading,United Kingdom,39.3,72.4,41.1,61.3,35.2,48.8,28.0,2013
+180,Joseph Fourier University,France,36.6,56.3,26.5,81.8,36.3,48.6,13.0,2013
+180,Newcastle University,United Kingdom,37.9,74.4,30.5,72.1,37.4,48.6,29.0,2013
+182,City University of Hong Kong,Hong Kong,35.2,64.0,41.8,64.1,53.6,48.5,28.0,2013
+183,Yonsei University,South Korea,48.3,33.4,50.6,48.6,56.1,48.2,14.0,2013
+184,Colorado School of Mines,United States of America,24.9,51.2,22.5,94.3,66.0,48.0,12.0,2013
+184,University of Illinois at Chicago,United States of America,53.9,29.1,42.6,52.9,40.4,48.0,17.0,2013
+184,William & Mary,United States of America,41.3,25.8,22.6,87.1,29.9,48.0,7.0,2013
+187,University College Dublin,Republic of Ireland,31.1,76.5,31.8,74.9,35.3,47.9,23.0,2013
+187,University of Twente,Netherlands,35.8,61.5,46.4,55.6,79.7,47.9,26.0,2013
+189,Medical University of South Carolina,United States of America,46.2,27.7,39.6,59.7,77.1,47.7,,2013
+190,University of Western Australia,Australia,35.0,88.4,39.9,55.7,60.0,47.3,27.0,2013
+190,Wake Forest University,United States of America,37.5,19.0,22.4,89.1,48.0,47.3,5.0,2013
+192,University of Antwerp,Belgium,33.8,58.5,35.5,64.8,100.0,47.1,16.0,2013
+193,Iowa State University,United States of America,35.7,30.5,34.3,74.9,44.0,46.9,11.0,2013
+193,Technion Israel Institute of Technology,Israel,44.8,55.9,50.2,44.0,40.8,46.9,4.0,2013
+193,University of Miami,United States of America,48.7,33.1,27.0,69.7,,46.9,14.0,2013
+196,University of Leicester,United Kingdom,33.0,83.7,32.5,66.5,34.9,46.7,35.0,2013
+196,University of Victoria,Canada,20.2,65.9,33.7,82.7,30.6,46.7,11.0,2013
+198,University at Buffalo,United States of America,46.3,50.7,40.6,52.1,42.4,46.6,19.0,2013
+199,Goethe University Frankfurt,Germany,33.3,57.6,29.7,73.9,41.4,46.4,15.0,2013
+200,"Birkbeck, University of London",United Kingdom,27.6,83.2,30.5,72.8,29.4,46.2,38.0,2013
+1,California Institute of Technology,United States of America,94.4,65.8,98.2,99.8,91.2,94.9,27.0,2014
+2,Harvard University,United States of America,95.3,66.2,98.5,99.1,40.6,93.9,25.0,2014
+2,University of Oxford,United Kingdom,89.0,90.2,98.5,95.4,90.3,93.9,34.0,2014
+4,Stanford University,United States of America,94.7,68.0,96.8,99.1,61.3,93.8,22.0,2014
+5,Massachusetts Institute of Technology,United States of America,92.9,82.0,89.0,100.0,94.3,93.0,33.0,2014
+6,Princeton University,United States of America,89.9,59.6,97.6,99.7,80.5,92.7,27.0,2014
+7,University of Cambridge,United Kingdom,90.6,86.7,95.3,95.7,52.8,92.3,34.0,2014
+8,"University of California, Berkeley",United States of America,83.2,57.3,97.5,99.3,59.5,89.8,15.0,2014
+9,University of Chicago,United States of America,85.6,58.6,88.2,98.0,,87.8,21.0,2014
+10,Imperial College London,United Kingdom,84.5,91.8,88.1,90.0,72.3,87.5,51.0,2014
+11,Yale University,United States of America,89.5,57.6,90.5,93.5,38.7,87.4,20.0,2014
+12,"University of California, Los Angeles",United States of America,84.8,46.4,91.0,95.6,,86.3,15.0,2014
+13,Columbia University,United States of America,86.6,68.0,79.1,95.6,,85.2,28.0,2014
+14,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,77.6,96.7,88.2,85.0,78.8,84.5,37.0,2014
+15,Johns Hopkins University,United States of America,75.7,59.3,85.1,95.0,100.0,83.7,23.0,2014
+16,University of Pennsylvania,United States of America,79.8,40.6,81.2,95.0,45.2,81.0,20.0,2014
+17,Duke University,United States of America,73.9,50.0,73.0,96.7,100.0,79.3,17.0,2014
+18,University of Michigan,United States of America,70.0,49.5,86.2,90.8,53.5,79.2,16.0,2014
+19,Cornell University,United States of America,72.1,55.6,83.8,90.8,35.8,79.1,19.0,2014
+20,University of Toronto,Canada,73.6,70.0,81.5,84.5,45.8,78.3,15.0,2014
+21,University College London,United Kingdom,70.5,90.2,77.5,84.1,46.8,77.6,46.0,2014
+22,Northwestern University,United States of America,70.2,34.4,76.0,97.1,61.9,77.1,15.0,2014
+23,University of Tokyo,Japan,84.7,29.6,88.0,69.8,56.7,76.4,10.0,2014
+24,Carnegie Mellon University,United States of America,63.1,58.1,77.4,93.9,52.5,76.0,35.0,2014
+25,University of Washington,United States of America,65.6,43.2,69.2,95.6,43.1,73.4,13.0,2014
+26,National University of Singapore,Singapore,68.0,94.3,77.8,66.4,64.3,72.4,34.0,2014
+27,University of Texas at Austin,United States of America,64.7,42.4,69.0,91.3,59.6,72.2,9.0,2014
+28,Georgia Institute of Technology,United States of America,59.4,67.8,68.6,87.9,71.3,71.6,26.0,2014
+29,University of Illinois at Urbana-Champaign,United States of America,66.0,41.1,78.9,79.4,,71.4,20.0,2014
+30,University of Wisconsin-Madison,United States of America,69.8,32.3,67.7,87.2,51.2,71.1,11.0,2014
+31,University of British Columbia,Canada,59.9,84.2,67.9,83.7,43.1,70.8,25.0,2014
+32,London School of Economics and Political Science,United Kingdom,65.2,81.7,74.2,69.2,43.6,69.8,,2014
+33,"University of California, Santa Barbara",United States of America,47.8,61.8,58.2,99.4,86.7,68.4,11.0,2014
+34,University of Melbourne,Australia,57.1,81.3,64.2,80.2,65.1,68.2,35.0,2014
+35,McGill University,Canada,61.5,77.8,68.1,74.5,40.8,68.1,23.0,2014
+36,Karolinska Institute,Sweden,58.1,73.2,67.7,76.0,68.7,67.8,22.0,2014
+37,École Polytechnique Fédérale de Lausanne,Switzerland,52.9,98.2,48.3,95.9,49.2,67.7,54.0,2014
+38,King’s College London,United Kingdom,56.2,86.0,56.8,87.6,38.3,67.6,37.0,2014
+39,University of Edinburgh,United Kingdom,56.6,81.5,56.9,87.6,42.5,67.5,36.0,2014
+40,New York University,United States of America,65.4,41.8,58.4,87.9,29.9,67.4,19.0,2014
+40,"University of California, San Diego",United States of America,52.0,35.6,63.0,96.7,48.4,67.4,11.0,2014
+42,Washington University in St Louis,United States of America,59.5,44.6,52.9,96.4,,67.2,17.0,2014
+43,University of Hong Kong,Hong Kong,61.6,80.3,69.9,61.5,56.9,65.3,38.0,2014
+44,Seoul National University,South Korea,76.4,29.4,79.2,47.3,86.0,65.2,10.0,2014
+45,Peking University,China,72.3,60.6,58.1,62.8,99.9,65.0,14.0,2014
+46,University of Minnesota,United States of America,61.4,31.7,62.7,81.2,,64.9,13.0,2014
+47,University of North Carolina at Chapel Hill,United States of America,57.6,35.0,55.3,90.2,39.1,64.5,8.0,2014
+48,Australian National University,Australia,51.8,91.4,65.1,71.2,44.8,64.4,35.0,2014
+49,Pennsylvania State University,United States of America,55.3,33.7,65.9,79.4,60.0,64.2,12.0,2014
+50,Boston University,United States of America,56.5,44.2,46.1,95.3,31.1,63.5,17.0,2014
+50,Tsinghua University,China,66.8,42.6,65.9,59.9,99.9,63.5,10.0,2014
+52,Brown University,United States of America,55.4,37.7,52.0,91.3,33.5,63.2,19.0,2014
+52,Kyoto University,Japan,69.5,27.5,69.5,58.2,78.7,63.2,7.0,2014
+52,"University of California, Davis",United States of America,55.5,53.7,56.4,81.2,51.3,63.2,13.0,2014
+55,LMU Munich,Germany,55.4,56.3,54.1,83.3,41.4,63.1,13.0,2014
+56,Korea Advanced Institute of Science and Technology (KAIST),South Korea,65.6,34.3,60.0,67.0,100.0,62.9,9.0,2014
+57,Hong Kong University of Science and Technology,Hong Kong,52.4,77.0,59.7,72.3,58.5,62.5,36.0,2014
+58,University of Manchester,United Kingdom,54.5,80.9,52.2,77.3,40.8,62.3,34.0,2014
+59,Ohio State University,United States of America,58.3,48.1,52.9,79.4,47.7,62.0,12.0,2014
+60,Pohang University of Science and Technology,South Korea,54.2,33.8,49.0,85.7,100.0,61.7,4.0,2014
+61,KU Leuven,Belgium,48.6,58.6,59.9,72.9,99.9,61.3,18.0,2014
+62,Purdue University,United States of America,53.7,60.6,62.5,67.0,,60.7,22.0,2014
+63,The University of Queensland,Australia,43.4,79.7,58.0,73.3,61.0,59.9,27.0,2014
+63,University of Göttingen,Germany,45.1,51.5,48.8,89.6,41.2,59.9,12.0,2014
+65,Rice University,United States of America,44.1,67.7,35.5,99.9,35.2,59.8,26.0,2014
+65,École Normale Supérieure,France,54.6,67.1,37.1,87.0,44.7,59.8,20.0,2014
+67,Leiden University,Netherlands,41.9,58.5,53.2,84.2,49.8,59.4,10.0,2014
+68,Heidelberg University,Germany,57.8,61.3,44.8,76.0,42.1,59.2,17.0,2014
+69,Delft University of Technology,Netherlands,55.8,74.2,67.3,47.2,100.0,59.1,25.0,2014
+70,University of Southern California,United States of America,58.7,43.4,43.2,81.2,34.6,59.0,20.0,2014
+70,École Polytechnique,France,46.3,86.1,40.5,82.3,74.0,59.0,30.0,2014
+72,University of Sydney,Australia,47.4,84.8,55.4,66.6,66.3,58.8,28.0,2014
+73,Erasmus University Rotterdam,Netherlands,37.8,66.6,53.3,81.2,56.0,58.1,18.0,2014
+74,University of Basel,Switzerland,39.1,91.1,41.0,81.4,98.5,57.7,24.0,2014
+74,Utrecht University,Netherlands,36.3,49.2,54.7,82.0,85.6,57.7,7.0,2014
+76,Nanyang Technological University,Singapore,37.7,91.0,54.3,67.5,100.0,57.2,33.0,2014
+77,Wageningen University and Research Center,Netherlands,43.1,78.3,44.3,74.1,100.0,56.8,21.0,2014
+78,University of Pittsburgh,United States of America,48.6,29.4,45.4,84.4,39.4,56.7,10.0,2014
+79,University of Bristol,United Kingdom,39.6,75.0,41.2,84.9,38.0,56.3,25.0,2014
+80,Durham University,United Kingdom,38.3,76.8,38.3,88.2,35.3,56.1,24.0,2014
+80,Emory University,United States of America,50.4,42.4,31.6,90.8,43.2,56.1,18.0,2014
+80,Tufts University,United States of America,46.7,43.4,32.1,93.9,39.1,56.1,14.0,2014
+83,Michigan State University,United States of America,50.0,52.6,49.1,71.5,32.0,55.9,15.0,2014
+83,University of Amsterdam,Netherlands,38.3,58.3,54.1,75.0,50.2,55.9,11.0,2014
+85,Ghent University,Belgium,41.0,49.5,48.9,74.9,94.6,55.5,9.0,2014
+86,Free University of Berlin,Germany,43.8,58.7,58.0,64.8,34.4,55.3,20.0,2014
+87,Technical University of Munich,Germany,48.2,63.1,35.2,80.7,50.1,55.2,20.0,2014
+88,Case Western Reserve University,United States of America,51.0,35.4,38.6,82.8,,55.0,17.0,2014
+88,Vanderbilt University,United States of America,46.8,28.6,38.7,86.5,51.0,55.0,10.0,2014
+90,University of Notre Dame,United States of America,41.2,47.5,34.7,91.8,31.2,54.7,10.0,2014
+91,Monash University,Australia,42.5,78.3,48.9,65.4,67.0,54.6,36.0,2014
+92,McMaster University,Canada,35.3,68.0,42.7,79.4,86.9,54.5,15.0,2014
+93,"University of California, Irvine",United States of America,37.1,36.4,40.8,89.7,44.9,54.1,16.0,2014
+94,Humboldt University of Berlin,Germany,45.6,54.4,48.7,68.4,,53.8,16.0,2014
+95,University of Rochester,United States of America,42.8,50.7,29.9,89.7,41.4,53.6,26.0,2014
+96,Pierre and Marie Curie University,France,50.2,65.5,26.7,82.3,34.4,53.5,18.0,2014
+97,University of Colorado Boulder,United States of America,34.2,40.5,33.3,97.3,,53.4,8.0,2014
+98,Maastricht University,Netherlands,33.1,89.1,47.1,65.8,98.2,52.9,48.0,2014
+98,University of Groningen,Netherlands,36.0,53.0,48.6,71.1,87.6,52.9,12.0,2014
+100,University of Helsinki,Finland,35.5,51.3,46.5,77.8,30.7,52.6,6.0,2014
+100,University of York,United Kingdom,31.7,73.6,33.2,89.4,33.3,52.6,,2014
+102,"Royal Holloway, University of London",United Kingdom,30.4,92.6,21.2,97.5,33.1,52.5,37.0,2014
+103,"Rutgers, the State University of New Jersey",United States of America,43.4,31.4,50.1,70.4,35.4,52.4,8.0,2014
+103,Stockholm University,Sweden,28.6,53.4,41.4,88.7,31.5,52.4,8.0,2014
+103,University of Arizona,United States of America,39.4,38.0,44.4,74.6,82.3,52.4,8.0,2014
+106,Eindhoven University of Technology,Netherlands,37.3,68.7,47.9,63.6,100.0,52.3,14.0,2014
+106,University of Montreal,Canada,45.7,75.6,42.9,59.3,90.9,52.3,25.0,2014
+108,"University of Maryland, College Park",United States of America,39.0,42.4,37.2,84.4,32.1,52.2,9.0,2014
+109,Chinese University of Hong Kong,Hong Kong,45.5,66.9,54.7,52.4,46.4,52.0,22.0,2014
+109,University of Alberta,Canada,44.6,70.1,47.8,59.3,46.8,52.0,23.0,2014
+111,Uppsala University,Sweden,38.9,57.8,49.7,66.4,40.5,51.9,12.0,2014
+112,University of Sheffield,United Kingdom,40.6,71.6,38.1,72.4,42.7,51.8,31.0,2014
+112,University of Virginia,United States of America,49.7,30.2,33.9,77.5,49.4,51.8,12.0,2014
+114,Paris-Sud University,France,35.9,62.0,32.1,86.3,28.8,51.7,17.0,2014
+114,Queen Mary University of London,United Kingdom,31.0,88.0,29.2,87.0,37.7,51.7,40.0,2014
+114,University of New South Wales,Australia,38.8,83.5,50.1,58.0,52.6,51.7,33.0,2014
+117,KTH Royal Institute of Technology,Sweden,45.0,86.2,41.6,55.6,100.0,51.6,21.0,2014
+117,Technical University of Denmark,Denmark,38.9,77.4,26.9,78.7,98.7,51.6,18.0,2014
+117,University of Glasgow,United Kingdom,34.5,73.7,36.6,79.2,40.8,51.6,29.0,2014
+117,University of St Andrews,United Kingdom,36.9,88.8,32.2,77.3,40.3,51.6,47.0,2014
+121,University of Sussex,United Kingdom,29.5,80.1,32.2,86.3,31.3,51.2,35.0,2014
+121,University of Zurich,Switzerland,38.0,85.5,29.8,78.1,39.2,51.2,19.0,2014
+123,Lund University,Sweden,30.1,67.4,48.6,72.0,33.5,51.1,15.0,2014
+124,University of Geneva,Switzerland,31.4,96.7,33.9,77.2,38.3,51.0,39.0,2014
+125,Tokyo Institute of Technology,Japan,52.4,32.1,51.4,52.0,67.5,50.8,13.0,2014
+126,Dartmouth College,United States of America,38.5,32.7,34.5,83.6,42.3,50.5,16.0,2014
+126,University of Cape Town,South Africa,26.3,77.2,31.0,84.6,85.6,50.5,18.0,2014
+128,University of Florida,United States of America,48.0,30.9,49.9,59.9,,50.4,9.0,2014
+129,RWTH Aachen University,Germany,40.4,55.5,31.3,76.0,73.9,50.3,16.0,2014
+129,Trinity College Dublin,Republic of Ireland,33.1,85.9,25.2,85.4,30.8,50.3,25.0,2014
+131,Radboud University Nijmegen,Netherlands,29.7,58.6,46.1,73.1,42.5,50.2,10.0,2014
+132,Indiana University,United States of America,45.8,38.3,37.0,71.5,,50.1,13.0,2014
+132,University of Lausanne,Switzerland,27.3,84.5,39.7,74.5,52.7,50.1,22.0,2014
+132,University of Massachusetts,United States of America,40.7,33.1,38.9,74.6,52.0,50.1,11.0,2014
+135,Boston College,United States of America,26.3,54.4,26.4,96.2,49.4,50.0,19.0,2014
+136,"University of California, Santa Cruz",United States of America,25.9,39.4,29.1,99.9,,49.9,1.0,2014
+137,Lancaster University,United Kingdom,34.8,81.2,32.6,75.4,32.2,49.7,33.0,2014
+138,Aarhus University,Denmark,30.7,67.2,46.4,65.8,67.5,49.6,14.0,2014
+139,Colorado School of Mines,United States of America,22.7,47.3,27.2,97.1,74.8,49.5,12.0,2014
+139,University of Leeds,United Kingdom,34.9,68.5,38.2,71.3,42.1,49.5,21.0,2014
+141,University of Warwick,United Kingdom,39.8,82.9,42.4,58.7,34.6,49.4,37.0,2014
+142,National Taiwan University,Taiwan,47.1,27.3,58.3,47.8,47.1,49.2,7.0,2014
+143,University of Utah,United States of America,39.4,25.5,36.1,76.6,61.3,49.1,9.0,2014
+144,Osaka University,Japan,52.5,27.6,47.6,50.4,71.2,49.0,9.0,2014
+144,VU University Amsterdam,Netherlands,33.1,49.2,38.8,74.1,59.8,49.0,6.0,2014
+146,Arizona State University,United States of America,33.8,28.6,35.9,83.6,31.4,48.9,9.0,2014
+146,University of Southampton,United Kingdom,33.2,79.1,31.4,75.4,38.6,48.9,29.0,2014
+148,"University of California, Riverside",United States of America,25.9,62.2,25.8,91.8,37.6,48.7,12.0,2014
+148,University of Exeter,United Kingdom,29.2,76.7,32.8,78.3,37.2,48.7,28.0,2014
+150,Tohoku University,Japan,51.8,29.3,48.1,47.3,85.9,48.5,7.0,2014
+150,University of Copenhagen,Denmark,33.9,76.0,32.0,73.1,43.0,48.5,19.0,2014
+152,University of Freiburg,Germany,40.1,55.9,28.4,71.8,86.6,48.4,16.0,2014
+153,University of Birmingham,United Kingdom,42.8,72.2,39.6,57.5,36.7,48.3,23.0,2014
+154,Karlsruhe Institute of Technology,Germany,39.0,61.9,33.6,64.8,83.0,48.0,16.0,2014
+155,Joseph Fourier University,France,39.1,57.1,27.6,75.6,36.1,47.8,13.0,2014
+156,École Normale Supérieure de Lyon,France,37.1,63.3,35.2,67.7,30.0,47.5,14.0,2014
+157,University of Bern,Switzerland,38.9,78.5,31.4,64.3,45.1,47.4,14.0,2014
+157,University of Nottingham,United Kingdom,38.4,70.3,36.3,62.3,39.2,47.4,27.0,2014
+159,Texas A&M University,United States of America,43.0,46.8,50.2,48.6,47.5,47.2,9.0,2014
+160,Georgetown University,United States of America,51.9,43.6,25.6,62.3,71.9,47.0,14.0,2014
+161,University College Dublin,Republic of Ireland,27.1,79.6,29.0,77.0,33.1,46.7,23.0,2014
+161,University of Iowa,United States of America,44.2,29.3,31.6,70.4,,46.7,11.0,2014
+161,University of Leicester,United Kingdom,32.5,81.6,32.9,66.9,33.7,46.7,35.0,2014
+164,Brandeis University,United States of America,28.8,50.6,24.3,86.5,36.8,46.6,22.0,2014
+164,Pompeu Fabra University,Spain,27.0,51.7,27.1,85.2,37.3,46.6,13.0,2014
+164,University of Antwerp,Belgium,34.5,61.1,33.2,64.1,100.0,46.6,16.0,2014
+164,University of Auckland,New Zealand,26.7,88.0,33.5,67.0,74.5,46.6,28.0,2014
+168,University of Western Australia,Australia,34.6,88.6,34.7,58.0,63.3,46.4,27.0,2014
+169,University of Liverpool,United Kingdom,31.1,75.0,31.2,70.3,37.7,46.3,30.0,2014
+170,University of Twente,Netherlands,32.7,65.5,43.8,54.3,81.8,46.2,26.0,2014
+170,University of Vienna,Austria,35.8,89.5,36.1,57.4,29.3,46.2,25.0,2014
+172,Université Catholique de Louvain,Belgium,30.1,63.4,35.3,67.5,57.8,46.1,19.0,2014
+172,Yeshiva University,United States of America,47.3,25.6,20.6,77.5,,46.1,7.0,2014
+174,University of Delaware,United States of America,27.0,37.1,35.5,73.6,98.1,46.0,10.0,2014
+174,University of East Anglia,United Kingdom,27.2,72.3,24.0,81.7,29.5,46.0,28.0,2014
+176,University at Buffalo,United States of America,40.2,55.4,39.3,56.2,39.4,45.9,19.0,2014
+176,Université Libre de Bruxelles,Belgium,22.7,77.5,30.4,77.8,,45.9,32.0,2014
+178,Paris Diderot University – Paris 7,France,24.0,67.0,19.1,90.2,29.1,45.8,17.0,2014
+178,Stony Brook University,United States of America,32.5,57.8,22.9,80.3,32.3,45.8,24.0,2014
+180,Wake Forest University,United States of America,36.1,23.7,21.8,85.1,38.8,45.7,5.0,2014
+181,Rensselaer Polytechnic Institute,United States of America,30.7,35.6,35.5,71.5,65.6,45.6,16.0,2014
+181,University of Bonn,Germany,35.8,54.2,20.4,80.7,,45.6,13.0,2014
+183,Iowa State University,United States of America,35.6,38.8,32.4,71.5,28.2,45.5,11.0,2014
+184,Northeastern University,United States of America,34.5,48.5,19.8,82.0,34.5,45.4,26.0,2014
+185,University of Miami,United States of America,43.2,32.9,25.8,71.5,,45.3,14.0,2014
+185,University of Oslo,Norway,32.4,70.3,33.0,65.4,32.5,45.3,18.0,2014
+185,University of Ottawa,Canada,36.5,62.4,34.8,60.6,41.6,45.3,15.0,2014
+188,University of Aberdeen,United Kingdom,27.9,83.6,26.8,71.3,45.1,45.2,33.0,2014
+188,University of Texas at Dallas,United States of America,25.5,46.8,28.6,81.2,44.4,45.2,23.0,2014
+190,Yonsei University,South Korea,44.5,35.0,47.0,44.2,70.1,45.1,14.0,2014
+191,Hebrew University of Jerusalem,Israel,42.8,52.9,37.0,54.3,33.3,45.0,5.0,2014
+191,University of Illinois at Chicago,United States of America,45.5,43.3,34.9,56.2,31.1,45.0,17.0,2014
+193,Mines ParisTech,France,41.6,58.7,22.5,62.7,99.1,44.9,22.0,2014
+194,George Washington University,United States of America,45.6,36.0,26.3,65.9,30.0,44.8,16.0,2014
+194,University of Reading,United Kingdom,36.0,70.6,34.1,58.7,34.4,44.8,28.0,2014
+196,University of Dundee,United Kingdom,22.5,65.7,21.4,84.9,46.5,44.7,25.0,2014
+197,Florida Institute of Technology,United States of America,15.9,61.5,14.5,99.0,44.7,44.6,26.0,2014
+198,Newcastle University,United Kingdom,29.7,76.3,28.3,68.1,36.9,44.5,29.0,2014
+199,Boğaziçi University,Turkey,20.5,49.8,22.8,88.2,45.9,44.3,7.0,2014
+199,Tel Aviv University,Israel,39.9,43.3,48.3,44.8,44.7,44.3,4.0,2014
+1,California Institute of Technology,United States of America,92.2,67.0,98.1,99.7,89.1,94.3,27.0,2015
+2,Harvard University,United States of America,92.9,67.6,98.6,98.9,44.0,93.3,25.0,2015
+3,University of Oxford,United Kingdom,88.6,90.7,97.7,95.5,72.9,93.2,34.0,2015
+4,Stanford University,United States of America,91.5,69.0,96.7,99.1,63.1,92.9,22.0,2015
+5,University of Cambridge,United Kingdom,89.7,87.8,95.6,95.2,51.1,92.0,34.0,2015
+6,Massachusetts Institute of Technology,United States of America,89.1,84.3,88.2,100.0,95.7,91.9,33.0,2015
+7,Princeton University,United States of America,86.6,61.2,94.7,99.6,82.7,90.9,27.0,2015
+8,"University of California, Berkeley",United States of America,84.2,58.5,96.7,99.1,44.8,89.5,15.0,2015
+9,Imperial College London,United Kingdom,84.6,92.7,88.3,89.4,72.7,87.5,51.0,2015
+9,Yale University,United States of America,88.5,59.8,90.8,94.0,42.0,87.5,20.0,2015
+11,University of Chicago,United States of America,83.9,65.2,89.9,97.3,36.8,87.1,21.0,2015
+12,"University of California, Los Angeles",United States of America,82.4,49.2,90.5,95.3,,85.5,15.0,2015
+13,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,78.2,96.6,90.2,83.5,73.2,84.6,37.0,2015
+14,Columbia University,United States of America,83.9,68.3,79.4,95.3,,84.4,28.0,2015
+15,Johns Hopkins University,United States of America,75.6,59.7,84.2,93.6,100.0,83.0,23.0,2015
+16,University of Pennsylvania,United States of America,79.0,43.8,82.0,94.4,43.0,81.0,20.0,2015
+17,University of Michigan,United States of America,77.0,49.8,86.5,88.9,55.7,80.9,16.0,2015
+18,Duke University,United States of America,73.5,50.5,75.2,96.6,100.0,79.9,17.0,2015
+19,Cornell University,United States of America,71.6,59.0,83.8,91.5,33.7,79.4,19.0,2015
+20,University of Toronto,Canada,74.4,71.2,85.1,83.0,46.1,79.3,15.0,2015
+21,Northwestern University,United States of America,72.7,36.7,78.9,96.9,77.0,79.2,15.0,2015
+22,University College London,United Kingdom,70.4,90.6,80.4,85.1,46.2,78.7,46.0,2015
+23,University of Tokyo,Japan,81.4,32.4,85.1,74.7,51.2,76.1,10.0,2015
+24,Carnegie Mellon University,United States of America,61.6,59.3,74.9,92.0,53.0,74.3,35.0,2015
+25,National University of Singapore,Singapore,72.0,94.9,78.1,66.0,53.4,73.3,34.0,2015
+26,University of Washington,United States of America,64.5,47.9,68.9,95.0,44.7,73.2,13.0,2015
+27,Georgia Institute of Technology,United States of America,62.5,68.9,71.2,85.8,72.3,72.8,26.0,2015
+28,University of Texas at Austin,United States of America,64.3,33.1,72.0,91.5,58.1,72.3,9.0,2015
+29,LMU Munich,Germany,65.1,56.4,69.1,83.0,100.0,71.9,13.0,2015
+29,University of Illinois at Urbana-Champaign,United States of America,67.7,43.9,79.0,77.8,51.7,71.9,20.0,2015
+29,University of Wisconsin-Madison,United States of America,67.7,33.6,71.3,87.7,53.3,71.9,11.0,2015
+32,University of British Columbia,Canada,60.5,84.8,69.0,85.3,40.1,71.8,25.0,2015
+33,University of Melbourne,Australia,60.4,81.3,70.9,80.6,61.2,71.2,35.0,2015
+34,London School of Economics and Political Science,United Kingdom,65.4,87.4,74.2,71.3,40.6,70.9,,2015
+34,École Polytechnique Fédérale de Lausanne,Switzerland,54.7,98.8,56.9,95.0,61.9,70.9,54.0,2015
+36,University of Edinburgh,United Kingdom,58.9,84.3,62.9,88.3,41.2,70.4,36.0,2015
+37,"University of California, Santa Barbara",United States of America,49.4,64.3,61.4,99.2,87.1,70.0,11.0,2015
+38,New York University,United States of America,68.3,41.2,62.4,89.5,30.2,69.9,19.0,2015
+39,McGill University,Canada,63.3,79.0,69.9,76.0,38.6,69.6,23.0,2015
+40,King’s College London,United Kingdom,55.6,87.0,62.3,88.3,39.0,69.4,37.0,2015
+41,"University of California, San Diego",United States of America,52.0,37.0,66.6,96.4,54.2,68.6,11.0,2015
+42,Washington University in St Louis,United States of America,57.6,46.5,55.2,97.1,,67.8,17.0,2015
+43,University of Hong Kong,Hong Kong,62.1,81.9,72.6,65.1,56.0,67.5,38.0,2015
+44,Karolinska Institute,Sweden,57.1,60.6,68.0,76.8,65.5,66.8,22.0,2015
+45,Australian National University,Australia,53.7,91.3,70.9,71.1,38.9,66.5,35.0,2015
+46,University of Minnesota,United States of America,59.9,33.8,64.7,82.9,,65.9,13.0,2015
+46,University of North Carolina at Chapel Hill,United States of America,57.9,35.3,58.6,91.0,40.5,65.9,8.0,2015
+48,Peking University,China,70.0,53.7,61.9,63.7,100.0,65.2,14.0,2015
+49,Tsinghua University,China,64.1,44.6,68.3,65.0,99.7,65.1,10.0,2015
+50,Seoul National University,South Korea,75.5,30.3,77.1,48.7,86.3,64.8,10.0,2015
+51,Hong Kong University of Science and Technology,Hong Kong,51.8,77.8,66.8,72.9,57.6,64.7,36.0,2015
+52,Korea Advanced Institute of Science and Technology (KAIST),South Korea,63.5,34.9,63.2,71.4,100.0,64.5,9.0,2015
+52,University of Manchester,United Kingdom,58.1,82.0,58.7,74.3,39.4,64.5,34.0,2015
+54,Brown University,United States of America,55.5,37.0,54.2,92.0,32.7,64.1,19.0,2015
+55,KU Leuven,Belgium,53.0,62.3,63.6,71.8,99.9,63.7,18.0,2015
+55,"University of California, Davis",United States of America,54.4,52.9,59.7,80.4,55.4,63.7,13.0,2015
+57,Boston University,United States of America,56.4,47.8,46.7,94.4,30.3,63.6,17.0,2015
+58,Pennsylvania State University,United States of America,54.6,37.4,64.8,76.0,60.4,62.9,12.0,2015
+59,Kyoto University,Japan,70.4,29.0,68.4,57.0,73.3,62.8,7.0,2015
+60,University of Sydney,Australia,52.8,83.6,60.8,69.0,67.3,62.7,28.0,2015
+61,Nanyang Technological University,Singapore,43.9,92.5,55.9,75.9,100.0,62.2,33.0,2015
+61,École Polytechnique,France,50.5,94.5,47.1,79.9,76.8,62.2,30.0,2015
+63,Scuola Normale Superiore di Pisa,Italy,48.2,50.1,46.0,96.4,40.1,61.9,5.0,2015
+64,Leiden University,Netherlands,45.0,59.5,58.2,82.3,47.3,61.3,10.0,2015
+65,The University of Queensland,Australia,45.8,80.4,58.4,74.2,66.2,61.2,27.0,2015
+66,Pohang University of Science and Technology,South Korea,52.7,36.0,49.3,84.4,100.0,61.1,4.0,2015
+67,University of Göttingen,Germany,46.9,53.9,48.0,92.3,32.8,61.0,12.0,2015
+68,Ohio State University,United States of America,54.0,51.5,51.1,80.4,46.8,60.7,12.0,2015
+69,Rice University,United States of America,41.7,70.8,37.1,99.9,34.6,59.8,26.0,2015
+70,Heidelberg University,Germany,52.6,63.1,45.4,81.4,41.6,59.6,17.0,2015
+71,Delft University of Technology,Netherlands,55.5,77.9,71.4,42.6,100.0,59.2,25.0,2015
+72,Erasmus University Rotterdam,Netherlands,39.8,66.2,53.7,82.3,54.4,59.1,18.0,2015
+73,Wageningen University and Research Center,Netherlands,44.3,78.7,46.8,77.5,100.0,59.0,21.0,2015
+74,University of Bristol,United Kingdom,43.7,76.6,44.7,85.1,42.1,58.9,25.0,2015
+75,University of Basel,Switzerland,41.2,91.2,41.1,81.4,97.7,58.4,24.0,2015
+75,University of Southern California,United States of America,55.2,42.7,44.6,81.3,34.4,58.4,20.0,2015
+77,University of Amsterdam,Netherlands,42.0,60.5,55.4,76.6,56.7,58.2,11.0,2015
+78,École Normale Supérieure,France,48.7,81.9,36.2,84.8,39.4,58.1,20.0,2015
+79,Utrecht University,Netherlands,38.2,52.9,54.8,80.0,84.1,58.0,7.0,2015
+80,Humboldt University of Berlin,Germany,51.9,55.7,52.6,71.9,31.9,57.9,16.0,2015
+81,Free University of Berlin,Germany,49.4,56.6,58.0,67.6,33.5,57.6,20.0,2015
+82,Michigan State University,United States of America,51.1,55.0,49.4,74.0,31.7,57.3,15.0,2015
+83,Durham University,United Kingdom,37.2,80.4,40.7,88.9,34.8,56.9,24.0,2015
+83,Monash University,Australia,43.7,79.6,54.4,65.7,73.4,56.9,36.0,2015
+85,Middle East Technical University,Turkey,45.5,38.7,36.9,92.0,55.2,56.6,7.0,2015
+86,University of Arizona,United States of America,44.9,38.8,51.4,74.0,99.6,56.5,8.0,2015
+86,University of Notre Dame,United States of America,43.3,51.4,38.5,90.0,,56.5,10.0,2015
+88,Tufts University,United States of America,43.6,51.1,33.9,92.9,58.7,56.4,14.0,2015
+88,"University of California, Irvine",United States of America,39.5,56.1,41.7,89.5,40.0,56.4,16.0,2015
+90,Ghent University,Belgium,42.5,49.1,51.6,73.8,85.3,56.2,9.0,2015
+91,University of Massachusetts,United States of America,44.8,40.3,49.1,78.7,52.8,56.1,11.0,2015
+91,University of Pittsburgh,United States of America,45.2,32.2,46.3,84.4,38.5,56.1,10.0,2015
+93,Emory University,United States of America,49.0,42.9,32.4,89.5,42.3,55.5,18.0,2015
+94,McMaster University,Canada,38.1,69.4,43.2,78.8,85.0,55.3,15.0,2015
+94,University of Glasgow,United Kingdom,37.0,78.8,40.5,83.7,39.9,55.3,29.0,2015
+96,Vanderbilt University,United States of America,46.0,28.3,38.2,87.7,59.4,55.2,10.0,2015
+97,University of Colorado Boulder,United States of America,35.0,39.1,38.3,97.4,,55.1,8.0,2015
+98,Stockholm University,Sweden,30.1,53.2,45.0,90.9,32.4,54.6,8.0,2015
+98,Technical University of Munich,Germany,45.6,64.0,37.4,78.8,49.0,54.6,20.0,2015
+98,Uppsala University,Sweden,40.2,57.5,53.0,70.9,39.6,54.6,12.0,2015
+101,Maastricht University,Netherlands,32.4,89.7,48.1,70.1,96.1,54.3,48.0,2015
+102,Purdue University,United States of America,47.8,64.3,50.5,62.2,,54.0,22.0,2015
+103,Pierre and Marie Curie University,France,47.3,64.7,30.0,83.3,33.4,53.9,18.0,2015
+103,University of Helsinki,Finland,37.5,49.7,48.1,79.0,31.5,53.9,6.0,2015
+103,University of Warwick,United Kingdom,41.1,85.7,45.8,68.2,35.6,53.9,37.0,2015
+103,University of Zurich,Switzerland,40.2,86.9,33.1,81.4,40.1,53.9,19.0,2015
+107,Queen Mary University of London,United Kingdom,32.4,88.6,32.9,88.9,37.1,53.8,40.0,2015
+107,University of Geneva,Switzerland,34.5,96.8,37.2,78.2,65.1,53.8,39.0,2015
+109,"University of California, Santa Cruz",United States of America,30.6,54.6,31.9,100.0,33.8,53.7,1.0,2015
+109,University of New South Wales,Australia,41.1,83.5,51.9,61.1,47.8,53.7,33.0,2015
+111,University of St Andrews,United Kingdom,35.7,90.5,35.9,81.4,39.8,53.6,47.0,2015
+111,University of Sussex,United Kingdom,31.9,83.6,30.4,92.8,31.2,53.6,35.0,2015
+113,University of Montreal,Canada,43.8,76.7,44.4,62.9,91.8,53.4,25.0,2015
+113,University of Tübingen,Germany,41.5,53.0,44.7,74.0,54.7,53.4,12.0,2015
+113,University of York,United Kingdom,32.2,75.0,33.8,90.5,32.2,53.4,,2015
+116,Case Western Reserve University,United States of America,46.5,34.4,37.4,82.9,,53.2,17.0,2015
+117,University of Groningen,Netherlands,36.9,56.1,50.8,68.1,88.9,53.1,12.0,2015
+118,"Royal Holloway, University of London",United Kingdom,29.1,94.4,22.4,98.9,32.8,53.0,37.0,2015
+119,Lund University,Sweden,32.6,70.1,48.5,74.9,32.6,52.9,15.0,2015
+120,Paris-Sud University,France,37.3,62.7,33.1,87.7,28.9,52.8,17.0,2015
+121,Technical University of Denmark,Denmark,39.9,79.7,28.2,79.6,98.6,52.7,18.0,2015
+121,University of Rochester,United States of America,41.9,55.5,29.2,87.7,36.4,52.7,26.0,2015
+121,University of Sheffield,United Kingdom,40.0,74.8,39.1,74.3,43.8,52.7,31.0,2015
+124,University of Alberta,Canada,43.8,73.4,47.1,61.8,51.8,52.6,23.0,2015
+124,University of Cape Town,South Africa,26.8,76.7,35.3,86.6,88.0,52.6,18.0,2015
+126,Boston College,United States of America,32.4,54.6,29.1,95.9,46.5,52.5,19.0,2015
+126,KTH Royal Institute of Technology,Sweden,45.7,84.0,44.8,55.1,100.0,52.5,21.0,2015
+126,University of Florida,United States of America,49.8,32.2,52.1,62.2,,52.5,9.0,2015
+129,Chinese University of Hong Kong,Hong Kong,43.9,64.0,53.5,57.8,42.8,52.4,22.0,2015
+130,University of Virginia,United States of America,48.7,31.8,35.9,76.9,49.8,52.1,12.0,2015
+131,Lancaster University,United Kingdom,35.4,84.7,36.1,78.0,34.1,52.0,33.0,2015
+132,University of Bern,Switzerland,42.0,80.7,36.9,70.1,47.4,51.9,14.0,2015
+132,"University of Maryland, College Park",United States of America,36.5,44.8,39.1,83.6,33.2,51.9,9.0,2015
+132,University of Southampton,United Kingdom,35.2,82.4,34.1,79.7,38.9,51.9,29.0,2015
+135,TU Dresden,Germany,39.8,44.7,42.0,70.8,99.5,51.6,12.0,2015
+136,University of Lausanne,Switzerland,29.4,85.1,39.9,76.5,50.9,51.4,22.0,2015
+136,VU University Amsterdam,Netherlands,35.5,50.6,43.2,74.9,60.0,51.4,6.0,2015
+138,Trinity College Dublin,Republic of Ireland,39.4,83.9,30.3,77.6,30.6,51.2,25.0,2015
+139,Boğaziçi University,Turkey,28.5,54.1,27.6,96.8,47.7,51.1,7.0,2015
+140,Radboud University Nijmegen,Netherlands,30.5,61.6,46.7,73.9,42.8,51.0,10.0,2015
+141,Colorado School of Mines,United States of America,26.1,52.6,26.7,97.1,79.4,50.9,12.0,2015
+141,Texas A&M University,United States of America,46.2,49.1,51.9,55.1,49.6,50.9,9.0,2015
+141,Tokyo Institute of Technology,Japan,53.5,37.0,52.9,48.1,69.4,50.9,13.0,2015
+144,Eindhoven University of Technology,Netherlands,38.3,69.0,47.1,57.3,99.9,50.5,14.0,2015
+144,"Rutgers, the State University of New Jersey",United States of America,40.5,34.3,45.3,71.0,35.2,50.5,8.0,2015
+146,University of Leeds,United Kingdom,39.4,67.6,39.1,69.3,39.4,50.4,21.0,2015
+147,Brandeis University,United States of America,25.8,54.7,29.1,95.3,43.9,50.3,22.0,2015
+148,Sungkyunkwan University (SKKU),South Korea,48.1,35.8,50.2,51.7,98.5,50.2,9.0,2015
+148,University of Birmingham,United Kingdom,42.8,75.8,39.8,62.7,36.0,50.2,23.0,2015
+150,Indiana University,United States of America,46.5,37.1,35.1,73.1,,50.1,13.0,2015
+150,"University of California, Riverside",United States of America,29.4,61.6,27.5,91.5,39.5,50.1,12.0,2015
+152,Dartmouth College,United States of America,38.3,33.1,35.4,80.4,49.1,50.0,16.0,2015
+153,Aarhus University,Denmark,30.9,66.3,47.5,66.5,59.8,49.9,14.0,2015
+154,University of Exeter,United Kingdom,32.0,79.8,32.7,78.0,35.8,49.7,28.0,2015
+155,National Taiwan University,Taiwan,48.8,27.5,57.3,47.7,43.8,49.3,7.0,2015
+156,RWTH Aachen University,Germany,39.0,56.8,29.9,75.0,69.8,49.2,16.0,2015
+157,Osaka University,Japan,51.3,29.1,48.0,51.1,73.6,49.1,9.0,2015
+157,University of Liverpool,United Kingdom,31.3,79.5,33.2,76.2,40.0,49.1,30.0,2015
+157,University of Western Australia,Australia,36.3,87.3,38.1,62.2,63.3,49.1,27.0,2015
+160,University of Copenhagen,Denmark,34.0,71.8,34.4,73.5,44.4,49.0,19.0,2015
+160,École Normale Supérieure de Lyon,France,38.1,64.4,33.8,73.0,29.3,49.0,14.0,2015
+162,University of Utah,United States of America,38.8,27.5,36.5,75.0,58.1,48.6,9.0,2015
+163,University of Freiburg,Germany,38.0,56.7,28.1,74.0,81.4,48.3,16.0,2015
+164,University of Adelaide,Australia,33.8,79.3,40.4,61.1,65.3,48.2,26.0,2015
+165,Istanbul Technical University,Turkey,30.2,37.3,36.9,79.7,51.1,48.1,5.0,2015
+165,Karlsruhe Institute of Technology,Germany,40.5,60.1,34.9,62.9,82.7,48.1,16.0,2015
+165,Pompeu Fabra University,Spain,25.1,63.2,28.3,88.3,35.9,48.1,13.0,2015
+165,Tohoku University,Japan,49.7,29.7,47.3,49.6,76.8,48.1,7.0,2015
+169,University of Miami,United States of America,42.7,56.7,27.2,73.1,,48.0,14.0,2015
+170,University of Antwerp,Belgium,34.6,61.0,33.6,67.7,100.0,47.9,16.0,2015
+171,University of Nottingham,United Kingdom,39.9,70.6,35.8,62.7,39.6,47.8,27.0,2015
+171,Université Catholique de Louvain,Belgium,37.9,59.7,34.9,67.7,46.1,47.8,19.0,2015
+173,Georgetown University,United States of America,51.1,43.3,28.2,62.2,80.0,47.7,14.0,2015
+173,University of Victoria,Canada,21.6,70.1,30.6,86.7,31.6,47.7,11.0,2015
+175,University of Auckland,New Zealand,28.6,87.3,33.4,68.4,74.2,47.5,28.0,2015
+175,University of Iowa,United States of America,41.9,31.7,33.5,71.0,49.3,47.5,11.0,2015
+177,Syracuse University,United States of America,32.4,41.2,24.4,87.1,40.6,47.3,15.0,2015
+178,Joseph Fourier University,France,38.0,57.3,29.3,73.0,31.3,47.1,13.0,2015
+178,University of Aberdeen,United Kingdom,28.0,84.1,30.2,74.3,42.1,47.1,33.0,2015
+180,Paris Diderot University – Paris 7,France,25.6,67.4,19.7,92.2,29.1,47.0,17.0,2015
+180,University of Delaware,United States of America,29.0,40.6,36.3,73.1,99.3,47.0,10.0,2015
+182,Arizona State University,United States of America,35.7,29.5,37.5,73.1,32.6,46.9,9.0,2015
+182,Sabancı University,Turkey,26.0,44.6,27.1,88.5,42.9,46.9,6.0,2015
+182,University of Vienna,Austria,35.2,91.0,39.7,56.3,29.4,46.9,25.0,2015
+185,Northeastern University,United States of America,36.4,54.7,21.9,81.3,34.0,46.8,26.0,2015
+186,University of Oslo,Norway,36.1,60.3,35.2,66.3,36.6,46.7,18.0,2015
+186,Yeshiva University,United States of America,45.2,27.6,23.9,77.8,,46.7,7.0,2015
+188,Stony Brook University,United States of America,32.8,60.5,24.4,80.4,31.3,46.6,24.0,2015
+188,Tel Aviv University,Israel,43.5,46.1,51.1,45.5,42.6,46.6,4.0,2015
+188,University of Ottawa,Canada,37.9,63.2,34.7,62.9,45.9,46.6,15.0,2015
+191,University at Buffalo,United States of America,40.1,57.0,39.8,57.5,39.6,46.5,19.0,2015
+192,City University of Hong Kong,Hong Kong,31.0,71.3,32.9,68.6,49.8,46.3,28.0,2015
+193,Fudan University,China,45.6,37.4,34.0,61.0,49.4,46.2,11.0,2015
+193,Iowa State University,United States of America,36.4,40.6,30.9,72.0,54.4,46.2,11.0,2015
+195,University of Bonn,Germany,32.2,54.8,22.2,83.8,,46.1,13.0,2015
+196,Lomonosov Moscow State University,Russian Federation,55.9,60.4,42.1,33.8,78.5,46.0,20.0,2015
+196,"St George’s, University of London",United Kingdom,23.1,55.8,27.3,86.4,32.4,46.0,17.0,2015
+198,University of East Anglia,United Kingdom,25.2,76.5,22.6,83.7,29.2,45.9,28.0,2015
+199,University of Leicester,United Kingdom,29.8,83.9,31.6,67.1,34.8,45.7,35.0,2015
+200,Florida Institute of Technology,United States of America,19.7,63.0,13.1,99.2,53.7,45.6,26.0,2015
+200,George Washington University,United States of America,44.6,39.9,25.1,70.0,29.3,45.6,16.0,2015
+1,California Institute of Technology,United States of America,95.6,64.0,97.6,99.8,97.8,95.2,27.0,2016
+2,University of Oxford,United Kingdom,86.5,94.4,98.9,98.8,73.1,94.2,34.0,2016
+3,Stanford University,United States of America,92.5,76.3,96.2,99.9,63.3,93.9,22.0,2016
+4,University of Cambridge,United Kingdom,88.2,91.5,96.7,97.0,55.0,92.8,34.0,2016
+5,Massachusetts Institute of Technology,United States of America,89.4,84.0,88.6,99.7,95.4,92.0,33.0,2016
+6,Harvard University,United States of America,83.6,77.2,99.0,99.8,45.2,91.6,25.0,2016
+7,Princeton University,United States of America,85.1,78.5,91.9,99.3,52.1,90.1,27.0,2016
+8,Imperial College London,United Kingdom,83.3,96.0,88.5,96.7,53.7,89.1,51.0,2016
+9,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,77.0,97.9,95.0,91.1,80.0,88.3,37.0,2016
+10,University of Chicago,United States of America,85.7,65.0,88.9,99.2,36.6,87.9,21.0,2016
+11,Johns Hopkins University,United States of America,77.6,70.0,90.4,98.2,100.0,87.6,23.0,2016
+12,Yale University,United States of America,86.5,64.3,87.8,97.2,43.3,87.4,20.0,2016
+13,"University of California, Berkeley",United States of America,80.4,61.9,91.1,99.7,47.9,87.2,15.0,2016
+14,University College London,United Kingdom,78.1,94.4,91.0,94.2,40.5,87.1,46.0,2016
+15,Columbia University,United States of America,85.9,73.5,82.2,98.1,,86.1,28.0,2016
+16,"University of California, Los Angeles",United States of America,80.8,56.4,88.6,98.5,47.9,85.8,15.0,2016
+17,University of Pennsylvania,United States of America,82.0,49.5,86.9,98.6,47.9,85.2,20.0,2016
+18,Cornell University,United States of America,77.9,63.9,86.1,97.2,33.7,84.0,19.0,2016
+19,University of Toronto,Canada,75.9,77.8,89.3,90.9,49.1,83.9,15.0,2016
+20,Duke University,United States of America,76.0,56.5,78.0,99.0,100.0,82.7,17.0,2016
+21,University of Michigan,United States of America,76.8,53.7,85.2,94.4,56.3,82.4,16.0,2016
+22,Carnegie Mellon University,United States of America,67.4,57.1,88.8,99.1,57.5,82.3,35.0,2016
+23,London School of Economics and Political Science,United Kingdom,69.8,93.6,80.6,94.3,32.2,81.3,,2016
+24,University of Edinburgh,United Kingdom,68.6,89.8,77.2,96.3,36.1,80.3,36.0,2016
+25,Northwestern University,United States of America,69.8,53.9,78.4,96.5,81.2,79.5,15.0,2016
+26,National University of Singapore,Singapore,71.7,96.2,84.5,79.4,49.8,79.2,34.0,2016
+27,King’s College London,United Kingdom,64.5,93.8,75.8,93.8,40.1,78.2,37.0,2016
+28,Karolinska Institute,Sweden,60.6,73.1,81.1,92.2,75.8,77.5,22.0,2016
+29,LMU Munich,Germany,70.5,62.8,77.4,85.7,100.0,77.3,13.0,2016
+30,New York University,United States of America,74.7,49.3,72.3,95.3,30.4,77.2,19.0,2016
+31,École Polytechnique Fédérale de Lausanne,Switzerland,61.3,98.6,67.5,94.6,65.4,76.1,54.0,2016
+32,University of Washington,United States of America,67.1,51.2,70.0,98.6,43.1,75.6,13.0,2016
+33,University of Melbourne,Australia,62.0,87.1,75.5,86.6,64.6,75.4,35.0,2016
+34,University of British Columbia,Canada,60.2,90.5,73.2,91.5,42.6,75.3,25.0,2016
+35,KU Leuven,Belgium,59.9,68.6,76.9,87.3,100.0,74.8,18.0,2016
+36,University of Illinois at Urbana-Champaign,United States of America,64.5,45.8,81.2,86.8,52.8,74.5,20.0,2016
+37,Heidelberg University,Germany,68.8,62.8,69.6,88.2,68.2,74.4,17.0,2016
+38,McGill University,Canada,66.1,85.5,72.1,78.9,40.3,72.6,23.0,2016
+39,"University of California, San Diego",United States of America,56.9,42.9,69.8,98.7,56.7,72.2,11.0,2016
+39,"University of California, Santa Barbara",United States of America,52.6,61.5,66.0,99.2,90.4,72.2,11.0,2016
+41,Georgia Institute of Technology,United States of America,57.8,71.5,72.7,86.0,73.7,72.1,26.0,2016
+42,Peking University,China,77.8,49.2,72.4,69.1,100.0,72.0,14.0,2016
+43,University of Tokyo,Japan,81.4,30.3,83.0,60.9,50.8,71.1,10.0,2016
+44,"University of California, Davis",United States of America,60.1,58.4,72.7,84.3,57.3,71.0,13.0,2016
+44,University of Hong Kong,Hong Kong,64.6,99.5,72.8,70.1,53.7,71.0,38.0,2016
+46,University of Texas at Austin,United States of America,59.3,31.7,69.7,92.2,63.1,70.3,9.0,2016
+47,Tsinghua University,China,73.3,39.5,83.0,58.8,100.0,70.0,10.0,2016
+47,Wageningen University and Research Center,Netherlands,52.6,70.3,66.9,87.8,100.0,70.0,21.0,2016
+49,Humboldt University of Berlin,Germany,63.7,62.6,77.0,73.6,36.1,69.9,16.0,2016
+50,University of Wisconsin-Madison,United States of America,65.1,33.0,68.2,86.6,48.5,69.7,11.0,2016
+51,Brown University,United States of America,62.8,57.8,55.7,96.4,31.4,69.6,19.0,2016
+52,Australian National University,Australia,54.7,93.3,77.3,72.3,48.0,69.5,35.0,2016
+53,Technical University of Munich,Germany,61.0,63.8,66.0,80.1,99.2,69.4,20.0,2016
+54,École Normale Supérieure,France,70.6,85.5,47.7,87.1,37.1,69.0,20.0,2016
+55,Nanyang Technological University,Singapore,48.4,94.6,61.3,85.6,99.9,68.2,33.0,2016
+56,University of Manchester,United Kingdom,58.4,87.0,66.0,77.3,42.0,68.1,34.0,2016
+56,University of Sydney,Australia,54.3,84.4,68.1,77.5,72.4,68.1,28.0,2016
+58,University of Amsterdam,Netherlands,52.2,66.5,64.7,87.4,62.8,67.8,11.0,2016
+59,Hong Kong University of Science and Technology,Hong Kong,49.4,80.5,66.1,82.6,68.1,67.2,36.0,2016
+60,The University of Queensland,Australia,49.2,89.3,62.8,82.4,76.7,67.0,27.0,2016
+60,Washington University in St Louis,United States of America,54.3,44.9,55.6,99.2,33.5,67.0,17.0,2016
+62,Utrecht University,Netherlands,48.1,55.8,64.3,88.1,89.1,66.6,7.0,2016
+63,University of North Carolina at Chapel Hill,United States of America,58.0,39.0,54.5,95.9,39.4,66.4,8.0,2016
+64,Boston University,United States of America,57.8,51.0,49.5,97.7,30.3,66.1,17.0,2016
+65,Delft University of Technology,Netherlands,55.0,84.0,73.8,61.5,100.0,65.9,25.0,2016
+65,University of Minnesota,United States of America,53.5,35.3,61.0,88.0,98.5,65.9,13.0,2016
+67,Leiden University,Netherlands,50.5,64.3,63.1,85.2,49.8,65.7,10.0,2016
+68,University of Southern California,United States of America,49.3,56.3,58.9,93.0,38.0,65.5,20.0,2016
+69,University of Bristol,United Kingdom,47.6,82.4,51.6,91.2,40.0,64.3,25.0,2016
+70,Durham University,United Kingdom,47.9,86.4,51.9,87.7,34.4,63.6,24.0,2016
+71,Erasmus University Rotterdam,Netherlands,37.2,76.1,55.2,95.6,54.6,63.5,18.0,2016
+72,Free University of Berlin,Germany,57.9,69.2,72.2,60.2,35.1,63.2,20.0,2016
+73,Monash University,Australia,48.1,87.6,58.5,73.3,79.7,62.5,36.0,2016
+74,University of Groningen,Netherlands,43.3,63.9,56.9,84.0,92.4,62.4,12.0,2016
+75,Pennsylvania State University,United States of America,50.4,40.8,61.9,80.5,56.2,62.3,12.0,2016
+76,University of Glasgow,United Kingdom,41.6,85.8,48.3,92.3,31.6,61.9,29.0,2016
+76,University of Helsinki,Finland,48.4,51.8,60.4,82.1,31.6,61.9,6.0,2016
+78,University of Tübingen,Germany,47.0,58.2,59.8,79.3,59.2,61.7,12.0,2016
+79,University of Pittsburgh,United States of America,50.6,33.9,50.3,92.3,39.3,61.5,10.0,2016
+80,University of Warwick,United Kingdom,47.4,90.3,53.1,78.2,37.7,61.3,37.0,2016
+81,Uppsala University,Sweden,44.1,59.6,61.0,80.9,39.5,61.2,12.0,2016
+82,University of Copenhagen,Denmark,49.8,83.3,42.7,86.2,45.0,61.0,19.0,2016
+82,University of New South Wales,Australia,40.7,89.5,53.9,82.1,50.0,61.0,33.0,2016
+84,University of Freiburg,Germany,47.4,60.3,51.1,80.5,100.0,60.7,16.0,2016
+85,Seoul National University,South Korea,66.5,30.9,70.5,50.0,85.4,60.5,10.0,2016
+86,University of St Andrews,United Kingdom,49.7,92.3,47.3,78.8,30.6,60.4,47.0,2016
+87,Vanderbilt University,United States of America,47.8,29.1,44.2,95.7,63.2,60.1,10.0,2016
+88,Kyoto University,Japan,70.6,26.1,69.3,46.6,79.0,59.9,7.0,2016
+88,Maastricht University,Netherlands,37.5,95.5,47.7,82.7,95.4,59.9,48.0,2016
+90,Emory University,United States of America,48.3,51.0,37.1,96.7,48.9,59.7,18.0,2016
+90,Lund University,Sweden,39.7,74.1,53.6,81.3,70.4,59.7,15.0,2016
+90,Ohio State University,United States of America,51.6,53.0,46.6,83.2,53.1,59.7,12.0,2016
+93,University of Exeter,United Kingdom,39.4,87.3,40.0,94.3,31.9,59.5,28.0,2016
+94,University of Bonn,Germany,45.1,63.6,47.5,85.3,,58.8,13.0,2016
+94,Georgetown University,United States of America,54.4,52.7,39.3,82.5,80.7,58.8,14.0,2016
+94,McMaster University,Canada,39.8,76.1,44.8,84.9,88.0,58.8,15.0,2016
+97,University of Sheffield,United Kingdom,42.4,81.9,48.8,80.1,43.4,58.6,31.0,2016
+98,Queen Mary University of London,United Kingdom,34.1,93.5,41.3,93.3,36.8,58.5,40.0,2016
+99,University of Göttingen,Germany,49.3,56.4,54.5,72.7,31.8,58.0,12.0,2016
+99,Michigan State University,United States of America,47.3,56.4,52.6,76.8,32.2,58.0,15.0,2016
+101,University of Basel,Switzerland,39.5,94.7,33.1,88.3,99.9,57.9,24.0,2016
+101,École Polytechnique,France,53.5,92.8,44.6,64.7,82.3,57.9,30.0,2016
+101,Rice University,United States of America,37.9,66.6,35.1,99.7,41.7,57.9,26.0,2016
+104,Dartmouth College,United States of America,50.7,38.3,35.8,93.3,40.8,57.8,16.0,2016
+104,University of Zurich,Switzerland,49.5,90.4,31.5,85.4,44.0,57.8,19.0,2016
+106,Aarhus University,Denmark,36.9,76.8,50.7,79.8,68.3,57.7,14.0,2016
+106,"University of California, Irvine",United States of America,39.9,59.2,41.8,91.6,48.9,57.7,16.0,2016
+106,University of Mannheim,Germany,34.5,64.6,47.7,86.9,85.3,57.7,15.0,2016
+108,University of Notre Dame,United States of America,47.6,47.6,48.1,81.7,33.7,57.6,10.0,2016
+109,University of Western Australia,Australia,33.4,92.6,46.1,83.6,64.5,57.5,27.0,2016
+110,RWTH Aachen University,Germany,49.4,54.1,56.3,63.2,98.1,57.2,16.0,2016
+110,University of Southampton,United Kingdom,39.8,88.4,43.6,82.0,37.5,57.2,29.0,2016
+112,Scuola Normale Superiore di Pisa,Italy,54.2,46.3,53.1,67.2,52.0,57.1,5.0,2016
+113,University of Montreal,Canada,46.3,84.2,45.5,69.6,92.6,57.0,25.0,2016
+113,Pierre and Marie Curie University,France,52.8,74.1,32.7,82.9,37.4,57.0,18.0,2016
+113,Purdue University,United States of America,50.2,66.4,57.7,63.2,,57.0,22.0,2016
+116,Pohang University of Science and Technology,South Korea,49.1,33.7,47.1,76.7,100.0,56.9,4.0,2016
+117,"University of Maryland, College Park",United States of America,45.0,43.5,42.1,88.2,32.3,56.7,9.0,2016
+118,Ghent University,Belgium,42.1,54.2,54.5,71.2,88.3,56.6,9.0,2016
+119,University of Birmingham,United Kingdom,39.4,82.0,41.8,82.7,34.7,56.2,23.0,2016
+120,University of Bern,Switzerland,40.0,83.7,42.5,76.6,82.9,56.1,14.0,2016
+120,University of Cape Town,South Africa,34.9,80.2,38.7,85.6,92.7,56.1,18.0,2016
+120,University of Florida,United States of America,51.8,33.3,56.8,67.7,,56.1,9.0,2016
+123,University of Erlangen-Nuremberg,Germany,51.7,47.0,39.7,75.2,99.4,56.0,9.0,2016
+123,"Rutgers, the State University of New Jersey",United States of America,43.9,34.7,55.7,75.4,35.9,56.0,8.0,2016
+125,University of Münster,Germany,40.3,46.3,44.1,85.6,58.2,55.9,8.0,2016
+125,Radboud University Nijmegen,Netherlands,34.3,60.9,48.5,84.9,39.2,55.9,10.0,2016
+127,University of Colorado Boulder,United States of America,39.7,36.6,37.6,96.4,35.7,55.8,8.0,2016
+127,Tufts University,United States of America,45.2,49.4,33.3,90.1,60.7,55.8,14.0,2016
+129,"Royal Holloway, University of London",United Kingdom,35.1,92.7,33.2,91.2,34.4,55.7,37.0,2016
+130,Lancaster University,United Kingdom,34.0,87.0,41.4,85.3,33.6,55.6,33.0,2016
+131,University of Geneva,Switzerland,34.9,98.5,40.5,78.5,72.4,55.4,39.0,2016
+131,University of York,United Kingdom,41.9,83.5,46.3,73.1,31.1,55.4,,2016
+133,Case Western Reserve University,United States of America,46.1,40.5,33.2,92.0,34.1,55.3,17.0,2016
+133,University of Leeds,United Kingdom,43.7,77.4,39.0,79.2,36.7,55.3,21.0,2016
+135,University of Oslo,Norway,43.3,68.2,44.7,75.5,38.3,55.1,18.0,2016
+136,Stockholm University,Sweden,34.1,48.5,51.2,82.5,31.1,54.8,8.0,2016
+137,University of Alberta,Canada,46.4,80.7,48.1,63.6,47.4,54.7,23.0,2016
+138,Chinese University of Hong Kong,Hong Kong,41.5,81.1,48.5,68.4,37.5,54.5,22.0,2016
+138,Karlsruhe Institute of Technology,Germany,37.7,56.7,47.5,73.8,99.5,54.5,16.0,2016
+140,University of Sussex,United Kingdom,33.4,88.3,37.2,86.1,30.6,54.4,35.0,2016
+141,University of Massachusetts,United States of America,40.2,48.9,36.3,88.1,52.2,54.3,11.0,2016
+142,University of Vienna,Austria,40.8,92.6,50.5,63.6,30.2,54.2,25.0,2016
+143,University of Nottingham,United Kingdom,40.3,80.6,39.0,77.5,39.8,54.1,27.0,2016
+144,"University of California, Santa Cruz",United States of America,31.1,45.6,34.2,99.9,36.1,53.9,1.0,2016
+144,University of Lausanne,Switzerland,30.9,89.2,45.6,76.2,56.0,53.9,22.0,2016
+146,Autonomous University of Barcelona,Spain,40.3,50.3,40.0,83.8,34.9,53.8,10.0,2016
+147,University of Virginia,United States of America,38.8,43.4,37.5,87.3,37.9,53.3,12.0,2016
+148,Korea Advanced Institute of Science and Technology (KAIST),South Korea,43.3,33.9,40.5,75.9,100.0,53.0,9.0,2016
+149,University of Adelaide,Australia,32.8,85.1,43.2,72.4,79.3,52.9,26.0,2016
+149,University of East Anglia,United Kingdom,31.9,83.5,28.7,92.7,28.5,52.9,28.0,2016
+149,University of Twente,Netherlands,34.1,80.1,45.6,68.8,91.2,52.9,26.0,2016
+153,Sungkyunkwan University (SKKU),South Korea,51.4,36.7,53.5,53.8,97.5,52.8,9.0,2016
+154,VU University Amsterdam,Netherlands,28.4,54.9,37.1,90.7,60.1,52.5,6.0,2016
+155,KTH Royal Institute of Technology,Sweden,39.0,84.4,44.3,63.9,78.1,52.4,21.0,2016
+156,University of Cologne,Germany,42.2,53.1,38.0,75.0,68.5,52.3,11.0,2016
+157,University of Liverpool,United Kingdom,32.8,85.4,30.9,85.9,36.6,52.2,30.0,2016
+158,TU Dresden,Germany,41.4,47.7,45.8,66.1,99.7,52.1,12.0,2016
+158,University of Rochester,United States of America,39.7,55.8,27.9,89.0,37.0,52.1,26.0,2016
+160,Trinity College Dublin,Republic of Ireland,41.9,90.5,30.8,75.8,28.0,52.0,25.0,2016
+161,Lomonosov Moscow State University,Russian Federation,75.4,57.8,66.7,8.6,95.7,51.9,20.0,2016
+161,University of Miami,United States of America,41.7,64.0,22.3,90.1,35.5,51.9,14.0,2016
+163,University of Arizona,United States of America,38.7,38.6,41.8,79.5,32.4,51.7,8.0,2016
+164,Pompeu Fabra University,Spain,32.9,63.3,28.0,90.7,37.2,51.2,13.0,2016
+164,University of Reading,United Kingdom,39.3,85.1,37.3,69.9,34.2,51.2,28.0,2016
+164,Yeshiva University,United States of America,44.8,28.5,23.7,92.8,,51.2,7.0,2016
+167,"University of California, Riverside",United States of America,27.5,59.5,33.3,91.2,42.5,51.1,12.0,2016
+167,University of Leicester,United Kingdom,32.1,86.6,27.8,86.0,31.7,51.1,35.0,2016
+167,National Taiwan University,Taiwan,54.1,27.7,58.0,47.3,49.6,51.1,7.0,2016
+167,Technical University of Denmark,Denmark,37.3,85.1,29.9,77.8,50.0,51.1,18.0,2016
+167,Université Catholique de Louvain,Belgium,38.7,74.2,40.6,68.4,51.0,51.1,19.0,2016
+172,University of Aberdeen,United Kingdom,29.7,91.4,31.4,82.6,43.1,51.0,33.0,2016
+172,University of Auckland,New Zealand,31.4,90.5,39.5,69.8,78.0,51.0,28.0,2016
+174,University of Barcelona,Spain,38.5,49.2,37.4,78.9,31.1,50.9,10.0,2016
+175,University of Konstanz,Germany,38.5,58.3,46.7,61.9,92.4,50.8,12.0,2016
+176,Eindhoven University of Technology,Netherlands,34.3,71.3,41.0,70.7,57.3,50.6,14.0,2016
+176,University College Dublin,Republic of Ireland,35.0,86.3,38.5,70.8,33.5,50.6,23.0,2016
+178,Hebrew University of Jerusalem,Israel,45.8,55.6,41.4,64.6,31.9,50.5,5.0,2016
+179,University of Waterloo,Canada,35.4,74.4,43.9,66.5,39.5,50.3,14.0,2016
+180,University of Gothenburg,Sweden,28.5,58.3,39.8,81.8,30.3,50.2,12.0,2016
+180,Scuola Superiore Sant’Anna,Italy,42.5,45.2,23.2,84.5,71.2,50.2,17.0,2016
+182,University of Bergen,Norway,32.5,70.0,31.5,82.4,36.2,50.1,12.0,2016
+182,Cardiff University,United Kingdom,30.9,78.1,31.6,82.0,34.6,50.1,23.0,2016
+182,University of Utah,United States of America,35.6,30.1,35.3,83.7,57.4,50.1,9.0,2016
+185,Brandeis University,United States of America,28.3,47.0,25.7,97.3,38.6,49.9,22.0,2016
+185,University of Dundee,United Kingdom,25.6,78.5,26.9,90.2,49.5,49.9,25.0,2016
+185,University of Würzburg,Germany,34.6,50.9,35.8,79.1,47.9,49.9,8.0,2016
+188,Paris-Sud University,France,38.7,64.2,29.0,79.8,28.8,49.8,17.0,2016
+189,Arizona State University,United States of America,32.4,31.9,38.1,84.6,32.0,49.7,9.0,2016
+190,University of Antwerp,Belgium,31.6,64.8,40.8,71.7,60.3,49.6,16.0,2016
+190,Boston College,United States of America,34.1,60.0,29.3,83.3,46.8,49.6,19.0,2016
+192,Ulm University,Germany,35.2,58.2,23.9,86.4,58.4,49.5,10.0,2016
+193,University of Luxembourg,Luxembourg,25.0,99.8,26.7,84.8,38.1,49.4,52.0,2016
+193,Texas A&M University,United States of America,49.4,47.8,52.4,47.1,46.4,49.4,9.0,2016
+195,Charité - Universitätsmedizin Berlin,Germany,37.3,61.1,22.2,83.8,68.4,49.3,16.0,2016
+196,Newcastle University,United Kingdom,30.9,84.3,27.5,81.5,34.7,49.2,29.0,2016
+196,"St George’s, University of London",United Kingdom,25.6,69.5,18.1,100.0,37.7,49.2,17.0,2016
+198,University of Trento,Italy,30.8,55.9,27.4,87.7,47.1,49.1,8.0,2016
+199,Paris Diderot University – Paris 7,France,30.5,64.9,22.9,91.0,29.0,48.9,17.0,2016
+200,Queen’s University Belfast,United Kingdom,34.1,93.4,33.3,68.9,35.7,48.8,30.0,2016
