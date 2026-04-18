@@ -94,7 +94,7 @@ Exploratory Data Analysis serves as a bridge between data preparation and the ma
 
 The first step was to examine how universities are distributed across countries. The results show a strong geographic concentration.
 
-![Top 15 countries by number of universities (2015)](../figures/geography.png){#fig-geography fig-pos='H' fig-align="center" width=100%}
+![Top 15 countries by number of universities (2015)](figures/geography.png){#fig-geography fig-pos='H' fig-align="center" width=100%}
 
 The United States clearly dominates the dataset. After the US comes UK and then Germany. After these leading countries, the number of universities drops sharply.
 
@@ -115,33 +115,33 @@ To better understand the internal structure of the ranking, the five main indica
 : Descriptive statistics of indicators (2015)
 
 
-![Distribution of THE indicators (2015)](../figures/histograms.png){#fig-histograms fig-pos='H' width=100%}
+![Distribution of THE indicators (2015)](figures/histograms.png){#fig-histograms fig-pos='H' width=100%}
 
 The indicators `teaching` and `research` show distributions with most values concentrated between 30 and 60. The `citations` indicator is shifted towards values with most observations between 70 and 100 indicating consistently strong citation performance across the top-200 universities. The `international` indicator is relatively balanced but less frequent at high values. The `income` indicator is more dispersed and right-skewed indicating variability across universities.
 
 Overall the indicators differ in spread and shape with `citations` being the concentrated and `income` the most variable.
 
-![Box plots of THE indicators (2015)](../figures/box_plots.png){#fig-box-plots fig-pos='H' width=100%}
+![Box plots of THE indicators (2015)](figures/box_plots.png){#fig-box-plots fig-pos='H' width=100%}
 
 ## Top Universities and Country-Level Performance
 
 The United States and the United Kingdom universities dominate the top-10 list and prove their dominance in the ranking.
 
-![Top 10 universities by total score (2015)](../figures/top_10.png){#fig-top-10 fig-pos='H' width=100%}
+![Top 10 universities by total score (2015)](figures/top_10.png){#fig-top-10 fig-pos='H' width=100%}
 
 At the national level the United States is both the most populated in terms of universities and the most successful. The other countries are clustering to indicate that high representation may not necessarily result in proportionately high average scores.
 
-![Number of universities vs. average score by country (2015)](../figures/scatter.png){#fig-scatter fig-pos='H' width=100%}
+![Number of universities vs. average score by country (2015)](figures/scatter.png){#fig-scatter fig-pos='H' width=100%}
 
 ## Temporal Dynamics from 2011 to 2016
 
 The overall average score varies with the time (between 57.7 and 62.5) and does not follow a specific trend, which implies that the ranking structure is usually stable.
 
-![Average total score over time (2011–2016)](../figures/total_score_per_year.png){#fig-total fig-pos='H' width=100%}
+![Average total score over time (2011–2016)](figures/total_score_per_year.png){#fig-total fig-pos='H' width=100%}
 
 The major countries are ranked differently across the years, but one and the same group of countries has always been ranked at the top. This means that it is partially stable with some internal variation.
 
-![Average rank by country over time (2011–2016)](../figures/bump_charts.png){#fig-bump-charts fig-pos='H' width=100%}
+![Average rank by country over time (2011–2016)](figures/bump_charts.png){#fig-bump-charts fig-pos='H' width=100%}
 
 ## Main Findings from the EDA
 
@@ -181,12 +181,12 @@ The calculation of the gradient components (empirical weights) for the 2015 data
 
 The data confirms that the THE ranking strictly followed its stated logic in 2015: `teaching`, `research` and `citations` act as three equally powerful "heavyweight" levers, each accounting for approximately 30% of the total score. `international` and `income` provide significantly smaller "pushes" toward the top, at 7.5% and 2.5% respectively.
 
-![Empirical Weights of THE Indicators (Gradient Components)](../figures/gradient_lollipop.png){#fig-gradient fig-pos='H' width=100%}
+![Empirical Weights of THE Indicators (Gradient Components)](figures/gradient_lollipop.png){#fig-gradient fig-pos='H' width=100%}
 
 ## Linearity Verification
 To ensure that our "gradient" approach (based on linear regression) is mathematically sound, we examine the linearity verification. 
 
-![Linearity Verification: Indicators vs. Total Score (2015)](../figures/linearity_check.png){#fig-linearity fig-pos='H' width=100%}
+![Linearity Verification: Indicators vs. Total Score (2015)](figures/linearity_check.png){#fig-linearity fig-pos='H' width=100%}
 
 While `teaching`, `research` and `citations` show a strong, tight linear alignment with the total score, the indicators `international` and `income` display significant dispersion (scattering). This high variability suggests that these factors are less predictable drivers for a university's total score. 
 

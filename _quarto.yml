@@ -1,6 +1,8 @@
 project:
   type: default
-  output-dir: ../docs
+  output-dir: docs
+  resources:
+    - figures/
 
 execute:
   freeze: auto
