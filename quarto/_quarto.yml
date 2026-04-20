@@ -1,0 +1,13 @@
+project:
+  type: default
+  output-dir: ../docs
+  resources:
+    - figures/
+
+execute:
+  freeze: auto
+  warning: true
+  message: true
+
+bibliography: references.bib
+csl: iso690-numeric-en.csl
