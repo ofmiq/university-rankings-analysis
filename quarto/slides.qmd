@@ -68,7 +68,7 @@ How do the indicators behave statistically?
 . . .
 
 - **Citations:** 78.6 (High mean score)
-- **Teaching & Research:** ~49 (Moderate mean)
+- **Teaching & Research:** $\approx$ 49 (Moderate mean)
 - **Income:** 55.5 (High variability)
 
 ## Score Distributions
@@ -101,11 +101,11 @@ Is the THE ranking a "black box"?
 
 | Indicator | Empirical Weight | Official Weight |
 |:---|:---:|:---:|
-| **Teaching** | ~30% | 30% |
-| **Research** | ~30% | 30% |
-| **Citations** | ~30% | 30% |
-| **International** | ~7.5% | 7.5% |
-| **Income** | ~2.5% | 2.5% |
+| **Teaching** | $\approx$ 30% | 30% |
+| **Research** | $\approx$ 30% | 30% |
+| **Citations** | $\approx$ 30% | 30% |
+| **International** | $\approx$ 7.5% | 7.5% |
+| **Income** | $\approx$ 2.5% | 2.5% |
 
 ## Linearity Verification
 
