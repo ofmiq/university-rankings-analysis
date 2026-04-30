@@ -10,4 +10,4 @@ execute:
   message: true
 
 bibliography: references.bib
-csl: iso690-numeric-en.csl
+csl: apa.csl

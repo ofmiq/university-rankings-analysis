@@ -71,7 +71,7 @@ So this research is at the intersection of data analysis and math. We are using 
 
 ## Source
 
-Data was got from the World University Rankings dataset on Kaggle, which was published by Myles O’Neill[@oneill_rankings]. This dataset has information from three ranking systems: Times Higher Education, Academic Ranking of World Universities and the Center for World University Rankings.
+Data was got from the World University Rankings dataset on Kaggle, which was published by Myles O’Neill [@oneill_rankings]. This dataset has information from three ranking systems: Times Higher Education, Academic Ranking of World Universities and the Center for World University Rankings.
 
 This research uses exclusively the `timesData.csv` file, which contains data from the Times Higher Education ranking.
 
