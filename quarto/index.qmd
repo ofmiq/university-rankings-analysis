@@ -49,6 +49,8 @@ Behind each single row in a table lies a complex system of indicators:
 - International 
 - Income
 
+(see @tbl-variables for full descriptions)
+
 Each of these things contributes to the score but how much does each one matter? Are they all equally important?
 
 This research is not trying to make a ranking. It is trying to use data analysis and math to understand what is behind the ranking.
@@ -98,7 +100,7 @@ The dataset has 14 variables.
 | `female_male_ratio`      | Female-to-male ratio                       |
 | `year`                   | Ranking year                               |
 
-: Description of dataset variables
+: Description of dataset variables {#tbl-variables}
 
 ## Data Cleaning
 
@@ -145,14 +147,14 @@ To better understand the internal structure of the ranking, the five main indica
 | international | 61.14 | 18.97 | 27.5 | 46.1 | 60.3   | 78.7 | 98.8  |
 | income        | 55.53 | 22.25 | 28.9 | 38.9 | 48.4   | 72.4 | 100.0 |
 
-: Descriptive statistics of indicators (2015)
+: Descriptive statistics of indicators (2015) {#tbl-stats}
 
 
 ![Distribution of THE indicators (2015)](figures/histograms.png){#fig-histograms fig-pos='H' width=100%}
 
 The indicators `teaching` and `research` show distributions with most values concentrated between 30 and 60. The `citations` indicator is shifted towards values with most observations between 70 and 100 indicating consistently strong citation performance across the top-200 universities. The `international` indicator is relatively balanced but less frequent at high values. The `income` indicator is more dispersed and right-skewed indicating variability across universities.
 
-Overall the indicators differ in spread and shape with `citations` being the concentrated and `income` the most variable.
+Overall the indicators differ in spread and shape, as shown in @tbl-stats and illustrated in @fig-histograms and @fig-box-plots, with `citations` being the most concentrated and `income` the most variable.
 
 ![Box plots of THE indicators (2015)](figures/box_plots.png){#fig-box-plots fig-pos='H' width=100%}
 
@@ -210,9 +212,9 @@ The calculation of the gradient components (empirical weights) for the 2015 data
 | International | 0.074895         | 0.075           |
 | Income        | 0.024999         | 0.025           |
 
-: Gradient Analysis
+: Gradient Analysis {#tbl-gradient}
 
-The data confirms that the THE ranking strictly followed its stated logic in 2015: `teaching`, `research` and `citations` act as three equally powerful "heavyweight" levers, each accounting for approximately 30% of the total score. `international` and `income` provide significantly smaller "pushes" toward the top, at 7.5% and 2.5% respectively.
+The data confirms that the THE ranking strictly followed its stated logic in 2015, as summarized in @tbl-gradient and visualized in @fig-gradient: `teaching`, `research` and `citations` act as three equally powerful "heavyweight" levers, each accounting for approximately 30% of the total score. `international` and `income` provide significantly smaller "pushes" toward the top, at 7.5% and 2.5% respectively.
 
 ![Empirical Weights of THE Indicators (Gradient Components)](figures/gradient_lollipop.png){#fig-gradient fig-pos='H' width=100%}
 
