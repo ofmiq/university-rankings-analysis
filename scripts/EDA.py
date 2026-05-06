@@ -38,8 +38,7 @@ fig.update_layout(
     height=500
 )
 
-fig.write_html("../figures/html/geography.html")
-fig.write_image("../figures/png/geography.png", scale=2)
+fig.write_image("../quarto/figures/geography.png", scale=2)
 
 # 2 - HISTOGRAMS
 
@@ -66,7 +65,7 @@ axes[5].set_visible(False)
 plt.suptitle("Distribution of THE Indicators (2015)", 
              fontsize=15, fontweight="bold", y=1.02)
 plt.tight_layout()
-plt.savefig("../figures/png/histograms.png", dpi=150, bbox_inches="tight")
+plt.savefig("../quarto/figures/histograms.png", dpi=150, bbox_inches="tight")
 
 # 3 - BOX PLOTS
 
@@ -86,8 +85,7 @@ fig = px.box(
 )
 
 fig.update_layout(showlegend=False, height=500)
-fig.write_html("../figures/html/box_plots.html")
-fig.write_image("../figures/png/box_plots.png", scale=2)
+fig.write_image("../quarto/figures/box_plots.png", scale=2)
 
 # 4 - DESCRIPTIVE
 
@@ -126,8 +124,7 @@ fig.update_layout(
     height=450
 )
 
-fig.write_html("../figures/html/top_10.html")
-fig.write_image("../figures/png/top_10.png", scale=2)
+fig.write_image("../quarto/figures/top_10.png", scale=2)
 
 # 6 - SCATTER 
 
@@ -160,8 +157,7 @@ fig = px.scatter(
 
 fig.update_traces(textposition="top center", textfont_size=9)
 fig.update_layout(height=550, coloraxis_showscale=False)
-fig.write_html("../figures/html/scatter.html")
-fig.write_image("../figures/png/scatter.png", scale=2)
+fig.write_image("../quarto/figures/scatter.png", scale=2)
 
 
 # 7 - TOTAL SCORE PER YEARS
@@ -185,8 +181,7 @@ fig = px.line(
 
 fig.update_traces(line_color="#4C72B0", line_width=2.5, marker_size=8)
 fig.update_layout(height=400)
-fig.write_html("../figures/html/total_score_per_year.html")
-fig.write_image("../figures/png/total_score_per_year.png", scale=2)
+fig.write_image("../quarto/figures/total_score_per_year.png", scale=2)
 
 # 8 - BUMP CHART
 
@@ -222,5 +217,4 @@ fig.update_layout(
     legend_title="Country"
 )
 
-fig.write_html("../figures/html/bump_charts.html")
-fig.write_image("../figures/png/bump_charts.png", scale=2)
+fig.write_image("../quarto/figures/bump_charts.png", scale=2)
