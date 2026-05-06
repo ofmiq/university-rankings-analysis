@@ -10,9 +10,8 @@ dataset (2011–2016), exploring which academic indicators drive a university's 
 - `data/` - Original and cleaned datasets
 - `docs/` - Final compiled report (HTML/PDF) and assets for GitHub Pages 
 - `presentation/` - PowerPoint presentation
-- `quarto/` - source `.qmd` file and bibliography
+- `quarto/` - source `.qmd` file, figures, and bibliography
 - `scripts/` - Python scripts for data cleaning, EDA, and gradient analysis
-- `figures/` - All generated plots and visualizations
 
 ## Methods
  
