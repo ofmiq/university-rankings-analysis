@@ -139,16 +139,28 @@ This suggests that the global elite of universities is concentrated primarily in
 
 To better understand the internal structure of the ranking, the five main indicators were analyzed using histograms, box plots, and descriptive statistics.
 
-|               | Mean  | Std   | Min  | 25%  | Median | 75%  | Max   |
-|:--------------|:------|:------|:-----|:-----|:-------|:-----|:------|
-| teaching      | 48.17 | 16.52 | 19.7 | 36.5 | 43.9   | 55.6 | 92.9  |
-| research      | 49.86 | 19.56 | 13.1 | 34.9 | 46.0   | 62.3 | 98.6  |
-| citations     | 78.62 | 13.38 | 33.8 | 70.9 | 79.0   | 88.9 | 100.0 |
-| international | 61.14 | 18.97 | 27.5 | 46.1 | 60.3   | 78.7 | 98.8  |
-| income        | 55.53 | 22.25 | 28.9 | 38.9 | 48.4   | 72.4 | 100.0 |
+```{python}
+#| label: tbl-stats
+#| tbl-cap: "Descriptive statistics of indicators (2015)"
+#| code-fold: true
+#| warning: false
+#| message: false
 
-: Descriptive statistics of indicators (2015) {#tbl-stats}
+import pandas as pd
+from IPython.display import Markdown
 
+df_2015 = pd.read_csv("../data/times_clean_2015.csv")
+METRICS = ["teaching", "research", "citations", "international", "income"]
+
+stats = df_2015[METRICS].describe().T
+
+stats = stats[['mean', 'std', 'min', '25%', '50%', '75%', 'max']]
+stats.columns = ['Mean', 'Std', 'Min', '25%', 'Median', '75%', 'Max']
+stats.index = [i.capitalize() for i in stats.index]
+stats.index.name = "Indicator"
+
+Markdown(stats.to_markdown(floatfmt=".2f"))
+```
 
 ![Distribution of THE indicators (2015)](figures/histograms.png){#fig-histograms fig-pos='H' width=100%}
 
@@ -206,15 +218,40 @@ $$ {#eq-gradient}
 ## Near-Perfect Alignment with Methodology
 The calculation of the gradient components (empirical weights) defined in (@eq-gradient) for the 2015 dataset reveals an almost perfect match between the official Times Higher Education methodology and the actual distribution of scores for the top-200 universities. 
 
-| Indicator     | Empirical Weight | Official Weight |
-| :------------ | :--------------- | :-------------- |
-| Teaching      | 0.299911         | 0.300           |
-| Research      | 0.300409         | 0.300           |
-| Citations     | 0.299728         | 0.300           |
-| International | 0.074895         | 0.075           |
-| Income        | 0.024999         | 0.025           |
+```{python}
+#| label: tbl-gradient
+#| tbl-cap: "Gradient Analysis: Empirical vs Official Weights"
+#| code-fold: true
+#| warning: false
+#| message: false
 
-: Gradient Analysis {#tbl-gradient}
+import pandas as pd
+from sklearn.linear_model import LinearRegression
+from IPython.display import Markdown
+
+df_2015 = pd.read_csv("../data/times_clean_2015.csv")
+
+METRICS = ["teaching", "research", "citations", "international", "income"]
+TARGET = "total_score"
+
+df_model = df_2015.dropna(subset=METRICS + [TARGET])
+
+X = df_model[METRICS]
+y = df_model[TARGET]
+
+model = LinearRegression(fit_intercept=True)
+model.fit(X, y)
+
+official_weights = [0.30, 0.30, 0.30, 0.075, 0.025]
+
+gradient_results = pd.DataFrame({
+    "Indicator": [m.capitalize() for m in METRICS],
+    "Empirical_Weight": model.coef_,
+    "Official_Weight": official_weights
+}).sort_values(by="Empirical_Weight", ascending=False)
+
+Markdown(gradient_results.to_markdown(index=False, floatfmt=".6f"))
+```
 
 The data confirms that the THE ranking strictly followed its stated logic in 2015, as summarized in @tbl-gradient and visualized in @fig-gradient: `teaching`, `research` and `citations` act as three equally powerful "heavyweight" levers, each accounting for approximately 30% of the total score. `international` and `income` provide significantly smaller "pushes" toward the top, at 7.5% and 2.5% respectively.
 
