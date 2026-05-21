@@ -3,7 +3,7 @@
 Analysis of the [Times Higher Education World University Rankings](https://www.kaggle.com/datasets/mylesoneill/world-university-rankings)
 dataset (2011–2016), exploring which academic indicators drive a university's position in the global ranking.
 
-*You can view the full interactive report here: [Main page](https://ofmiq.github.io/university-rankings-analysis/), [Presentation](https://ofmiq.github.io/university-rankings-analysis/slides)*
+*You can view the full interactive report here: [Main page](https://ofmiq.github.io/university-rankings-analysis/), [Presentation](https://ofmiq.github.io/university-rankings-analysis/slides), [Dashboard](https://ofmiq.github.io/university-rankings-analysis/dashboard)*
 
 ## What's Inside
 
