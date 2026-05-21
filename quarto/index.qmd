@@ -127,7 +127,7 @@ Exploratory Data Analysis serves as a bridge between data preparation and the ma
 
 ## Geographic Distribution of Universities
 
-The first step was to examine how universities are distributed across countries. The results show a strong geographic concentration.
+The first step was to examine how universities are distributed across countries. The results in @fig-geography show a strong geographic concentration.
 
 ![Top 15 countries by number of universities (2015)](figures/geography.png){#fig-geography fig-pos='H' fig-align="center" width=100%}
 
@@ -160,21 +160,21 @@ Overall the indicators differ in spread and shape, as shown in @tbl-stats and il
 
 ## Top Universities and Country-Level Performance
 
-The United States and the United Kingdom universities dominate the top-10 list and prove their dominance in the ranking.
+As shown in @fig-top-10, the United States and the United Kingdom universities dominate the top-10 list and prove their dominance in the ranking.
 
 ![Top 10 universities by total score (2015)](figures/top_10.png){#fig-top-10 fig-pos='H' width=100%}
 
-At the national level the United States is both the most populated in terms of universities and the most successful. The other countries are clustering to indicate that high representation may not necessarily result in proportionately high average scores.
+At the national level the United States is both the most populated in terms of universities and the most successful. The other countries are clustering in @fig-scatter to indicate that high representation may not necessarily result in proportionately high average scores.
 
 ![Number of universities vs. average score by country (2015)](figures/scatter.png){#fig-scatter fig-pos='H' width=100%}
 
 ## Temporal Dynamics from 2011 to 2016
 
-The overall average score varies with the time (between 57.7 and 62.5) and does not follow a specific trend, which implies that the ranking structure is usually stable.
+According to @fig-total, the overall average score varies with the time (between 57.7 and 62.5) and does not follow a specific trend, which implies that the ranking structure is usually stable.
 
 ![Average total score over time (2011–2016)](figures/total_score_per_year.png){#fig-total fig-pos='H' width=100%}
 
-The major countries are ranked differently across the years, but one and the same group of countries has always been ranked at the top. This means that it is partially stable with some internal variation.
+The major countries are ranked differently across the years, but one and the same group of countries has always been ranked at the top. This means that it is partially stable with some internal variation, which is illustrated in @fig-bump-charts.
 
 ![Average rank by country over time (2011–2016)](figures/bump_charts.png){#fig-bump-charts fig-pos='H' width=100%}
 
@@ -199,10 +199,12 @@ While the Times Higher Education (THE) ranking officially declares specific weig
 
 To find these values without overcomplicating mathematics, we use a linear regression model. In this model, the `total_score` is our target, and the five main indicators are our features. The resulting coefficients from the model represent the components of the gradient:
 
-$$\nabla S = (w_{teaching}, w_{research}, w_{citations}, w_{international}, w_{income})$$
+$$
+\nabla S = (w_{teaching}, w_{research}, w_{citations}, w_{international}, w_{income})
+$$ {#eq-gradient}
 
 ## Near-Perfect Alignment with Methodology
-The calculation of the gradient components (empirical weights) for the 2015 dataset reveals an almost perfect match between the official Times Higher Education methodology and the actual distribution of scores for the top-200 universities. 
+The calculation of the gradient components (empirical weights) defined in (@eq-gradient) for the 2015 dataset reveals an almost perfect match between the official Times Higher Education methodology and the actual distribution of scores for the top-200 universities. 
 
 | Indicator     | Empirical Weight | Official Weight |
 | :------------ | :--------------- | :-------------- |
@@ -219,7 +221,7 @@ The data confirms that the THE ranking strictly followed its stated logic in 201
 ![Empirical Weights of THE Indicators (Gradient Components)](figures/gradient_lollipop.png){#fig-gradient fig-pos='H' width=100%}
 
 ## Linearity Verification
-To ensure that our "gradient" approach (based on linear regression) is mathematically sound, we examine the linearity verification. 
+To ensure that our "gradient" approach (based on linear regression) is mathematically sound, we examine the linearity verification presented in @fig-linearity.
 
 ![Linearity Verification: Indicators vs. Total Score (2015)](figures/linearity_check.png){#fig-linearity fig-pos='H' width=100%}
 

@@ -208,11 +208,13 @@ Maksym Honchar
 <h2>The Gradient Approach</h2>
 <p>How can actual empirical weights be found?</p>
 <div class="fragment">
-<p>The final score <span class="math inline">\(S\)</span> must be treated as a mathematical function of five variables.</p>
+<p>The final score <span class="math inline">\(S\)</span> must be treated as a mathematical function of five variables. {<a href="#/eq-gradient" class="quarto-xref">1</a>}</p>
 </div>
 <div class="fragment">
 <p>By applying linear regression, it is possible to extract the <strong>gradient components</strong>:</p>
-<p><span class="math display">\[\nabla S = \left( \frac{\partial S}{\partial Teach}, \frac{\partial S}{\partial Res}, \frac{\partial S}{\partial Cit}, \frac{\partial S}{\partial Int}, \frac{\partial S}{\partial Inc} \right)\]</span></p>
+<p><span id="eq-gradient"><span class="math display">\[
+\nabla S = \left( \frac{\partial S}{\partial Teach}, \frac{\partial S}{\partial Res}, \frac{\partial S}{\partial Cit}, \frac{\partial S}{\partial Int}, \frac{\partial S}{\partial Inc} \right)
+\tag{1}\]</span></span></p>
 </div>
 </section>
 <section id="empirical-vs.-official-weights" class="slide level2">
@@ -273,7 +275,7 @@ Maksym Honchar
 <img data-src="figures/linearity_check.png" style="width:80.0%" class="r-stretch"></section>
 <section id="final-takeaways" class="slide level2">
 <h2>Final Takeaways</h2>
-<p><strong>1. Transparency Confirmed</strong> The system is mathematically predictable. If you know the formula, you know the rank.</p>
+<p><strong>1. Transparency Confirmed</strong> The system is mathematically predictable. If you know the formula {<a href="#/eq-gradient" class="quarto-xref">1</a>}, you know the rank.</p>
 <div class="fragment">
 <p><strong>2. Strategic Focus</strong> To reach the top, a university must excel in the “Big Three” (Teaching, Research, Citations) — they control <strong>90%</strong> of the outcome.</p>
 </div>

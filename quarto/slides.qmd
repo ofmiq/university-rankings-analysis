@@ -81,13 +81,15 @@ How can actual empirical weights be found?
 
 . . .
 
-The final score $S$ must be treated as a mathematical function of five variables.
+The final score $S$ must be treated as a mathematical function of five variables. {@eq-gradient}
 
 . . .
 
 By applying linear regression, it is possible to extract the **gradient components**:
 
-$$\nabla S = \left( \frac{\partial S}{\partial Teach}, \frac{\partial S}{\partial Res}, \frac{\partial S}{\partial Cit}, \frac{\partial S}{\partial Int}, \frac{\partial S}{\partial Inc} \right)$$
+$$
+\nabla S = \left( \frac{\partial S}{\partial Teach}, \frac{\partial S}{\partial Res}, \frac{\partial S}{\partial Cit}, \frac{\partial S}{\partial Int}, \frac{\partial S}{\partial Inc} \right)
+$$ {#eq-gradient}
 
 ## Empirical vs. Official Weights
 
@@ -122,7 +124,7 @@ The relationship is strictly linear for the "Heavyweight Pillars".
 ## Final Takeaways
 
 **1. Transparency Confirmed**
-The system is mathematically predictable. If you know the formula, you know the rank.
+The system is mathematically predictable. If you know the formula {@eq-gradient}, you know the rank. 
 
 . . .
 

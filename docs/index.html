@@ -345,7 +345,7 @@ Table&nbsp;1: Description of dataset variables
 </section>
 <section id="geographic-distribution-of-universities" class="level2" data-number="3.2">
 <h2 data-number="3.2" class="anchored" data-anchor-id="geographic-distribution-of-universities"><span class="header-section-number">3.2</span> Geographic Distribution of Universities</h2>
-<p>The first step was to examine how universities are distributed across countries. The results show a strong geographic concentration.</p>
+<p>The first step was to examine how universities are distributed across countries. The results in <a href="#fig-geography" class="quarto-xref">Figure&nbsp;1</a> show a strong geographic concentration.</p>
 <div id="fig-geography" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-align="center" data-fig-pos="H">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-geography-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -462,7 +462,7 @@ Figure&nbsp;3: Box plots of THE indicators (2015)
 </section>
 <section id="top-universities-and-country-level-performance" class="level2" data-number="3.4">
 <h2 data-number="3.4" class="anchored" data-anchor-id="top-universities-and-country-level-performance"><span class="header-section-number">3.4</span> Top Universities and Country-Level Performance</h2>
-<p>The United States and the United Kingdom universities dominate the top-10 list and prove their dominance in the ranking.</p>
+<p>As shown in <a href="#fig-top-10" class="quarto-xref">Figure&nbsp;4</a>, the United States and the United Kingdom universities dominate the top-10 list and prove their dominance in the ranking.</p>
 <div id="fig-top-10" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-pos="H">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-top-10-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -473,7 +473,7 @@ Figure&nbsp;4: Top 10 universities by total score (2015)
 </figcaption>
 </figure>
 </div>
-<p>At the national level the United States is both the most populated in terms of universities and the most successful. The other countries are clustering to indicate that high representation may not necessarily result in proportionately high average scores.</p>
+<p>At the national level the United States is both the most populated in terms of universities and the most successful. The other countries are clustering in <a href="#fig-scatter" class="quarto-xref">Figure&nbsp;5</a> to indicate that high representation may not necessarily result in proportionately high average scores.</p>
 <div id="fig-scatter" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-pos="H">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-scatter-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -487,7 +487,7 @@ Figure&nbsp;5: Number of universities vs.&nbsp;average score by country (2015)
 </section>
 <section id="temporal-dynamics-from-2011-to-2016" class="level2" data-number="3.5">
 <h2 data-number="3.5" class="anchored" data-anchor-id="temporal-dynamics-from-2011-to-2016"><span class="header-section-number">3.5</span> Temporal Dynamics from 2011 to 2016</h2>
-<p>The overall average score varies with the time (between 57.7 and 62.5) and does not follow a specific trend, which implies that the ranking structure is usually stable.</p>
+<p>According to <a href="#fig-total" class="quarto-xref">Figure&nbsp;6</a>, the overall average score varies with the time (between 57.7 and 62.5) and does not follow a specific trend, which implies that the ranking structure is usually stable.</p>
 <div id="fig-total" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-pos="H">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-total-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -498,7 +498,7 @@ Figure&nbsp;6: Average total score over time (2011–2016)
 </figcaption>
 </figure>
 </div>
-<p>The major countries are ranked differently across the years, but one and the same group of countries has always been ranked at the top. This means that it is partially stable with some internal variation.</p>
+<p>The major countries are ranked differently across the years, but one and the same group of countries has always been ranked at the top. This means that it is partially stable with some internal variation, which is illustrated in <a href="#fig-bump-charts" class="quarto-xref">Figure&nbsp;7</a>.</p>
 <div id="fig-bump-charts" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-pos="H">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-bump-charts-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -528,11 +528,13 @@ Figure&nbsp;7: Average rank by country over time (2011–2016)
 <h2 data-number="4.2" class="anchored" data-anchor-id="methodology-extracting-weights"><span class="header-section-number">4.2</span> Methodology: Extracting Weights</h2>
 <p>While the Times Higher Education (THE) ranking officially declares specific weights for each category <span class="citation" data-cites="the_methodology">(<a href="#ref-the_methodology" role="doc-biblioref">Times Higher Education, 2015</a>)</span>, the goal of this section is to discover the empirical weights - the actual influence each indicator exerted within the 2015 dataset.</p>
 <p>To find these values without overcomplicating mathematics, we use a linear regression model. In this model, the <code>total_score</code> is our target, and the five main indicators are our features. The resulting coefficients from the model represent the components of the gradient:</p>
-<p><span class="math display">\[\nabla S = (w_{teaching}, w_{research}, w_{citations}, w_{international}, w_{income})\]</span></p>
+<p><span id="eq-gradient"><span class="math display">\[
+\nabla S = (w_{teaching}, w_{research}, w_{citations}, w_{international}, w_{income})
+\tag{1}\]</span></span></p>
 </section>
 <section id="near-perfect-alignment-with-methodology" class="level2" data-number="4.3">
 <h2 data-number="4.3" class="anchored" data-anchor-id="near-perfect-alignment-with-methodology"><span class="header-section-number">4.3</span> Near-Perfect Alignment with Methodology</h2>
-<p>The calculation of the gradient components (empirical weights) for the 2015 dataset reveals an almost perfect match between the official Times Higher Education methodology and the actual distribution of scores for the top-200 universities.</p>
+<p>The calculation of the gradient components (empirical weights) defined in (<a href="#eq-gradient" class="quarto-xref">1</a>) for the 2015 dataset reveals an almost perfect match between the official Times Higher Education methodology and the actual distribution of scores for the top-200 universities.</p>
 <div id="tbl-gradient" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-gradient-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -592,7 +594,7 @@ Figure&nbsp;8: Empirical Weights of THE Indicators (Gradient Components)
 </section>
 <section id="linearity-verification" class="level2" data-number="4.4">
 <h2 data-number="4.4" class="anchored" data-anchor-id="linearity-verification"><span class="header-section-number">4.4</span> Linearity Verification</h2>
-<p>To ensure that our “gradient” approach (based on linear regression) is mathematically sound, we examine the linearity verification.</p>
+<p>To ensure that our “gradient” approach (based on linear regression) is mathematically sound, we examine the linearity verification presented in <a href="#fig-linearity" class="quarto-xref">Figure&nbsp;9</a>.</p>
 <div id="fig-linearity" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-pos="H">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-linearity-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -1216,7 +1218,7 @@ Times Higher Education. (2015). <em>World university rankings methodology</em>. 
 <span id="cb1-127"><a href="#cb1-127" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-128"><a href="#cb1-128" aria-hidden="true" tabindex="-1"></a><span class="fu">## Geographic Distribution of Universities</span></span>
 <span id="cb1-129"><a href="#cb1-129" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-130"><a href="#cb1-130" aria-hidden="true" tabindex="-1"></a>The first step was to examine how universities are distributed across countries. The results show a strong geographic concentration.</span>
+<span id="cb1-130"><a href="#cb1-130" aria-hidden="true" tabindex="-1"></a>The first step was to examine how universities are distributed across countries. The results in @fig-geography show a strong geographic concentration.</span>
 <span id="cb1-131"><a href="#cb1-131" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-132"><a href="#cb1-132" aria-hidden="true" tabindex="-1"></a><span class="al">![Top 15 countries by number of universities (2015)](figures/geography.png)</span>{#fig-geography fig-pos='H' fig-align="center" width=100%}</span>
 <span id="cb1-133"><a href="#cb1-133" aria-hidden="true" tabindex="-1"></a></span>
@@ -1249,21 +1251,21 @@ Times Higher Education. (2015). <em>World university rankings methodology</em>. 
 <span id="cb1-160"><a href="#cb1-160" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-161"><a href="#cb1-161" aria-hidden="true" tabindex="-1"></a><span class="fu">## Top Universities and Country-Level Performance</span></span>
 <span id="cb1-162"><a href="#cb1-162" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-163"><a href="#cb1-163" aria-hidden="true" tabindex="-1"></a>The United States and the United Kingdom universities dominate the top-10 list and prove their dominance in the ranking.</span>
+<span id="cb1-163"><a href="#cb1-163" aria-hidden="true" tabindex="-1"></a>As shown in @fig-top-10, the United States and the United Kingdom universities dominate the top-10 list and prove their dominance in the ranking.</span>
 <span id="cb1-164"><a href="#cb1-164" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-165"><a href="#cb1-165" aria-hidden="true" tabindex="-1"></a><span class="al">![Top 10 universities by total score (2015)](figures/top_10.png)</span>{#fig-top-10 fig-pos='H' width=100%}</span>
 <span id="cb1-166"><a href="#cb1-166" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-167"><a href="#cb1-167" aria-hidden="true" tabindex="-1"></a>At the national level the United States is both the most populated in terms of universities and the most successful. The other countries are clustering to indicate that high representation may not necessarily result in proportionately high average scores.</span>
+<span id="cb1-167"><a href="#cb1-167" aria-hidden="true" tabindex="-1"></a>At the national level the United States is both the most populated in terms of universities and the most successful. The other countries are clustering in @fig-scatter to indicate that high representation may not necessarily result in proportionately high average scores.</span>
 <span id="cb1-168"><a href="#cb1-168" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-169"><a href="#cb1-169" aria-hidden="true" tabindex="-1"></a><span class="al">![Number of universities vs. average score by country (2015)](figures/scatter.png)</span>{#fig-scatter fig-pos='H' width=100%}</span>
 <span id="cb1-170"><a href="#cb1-170" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-171"><a href="#cb1-171" aria-hidden="true" tabindex="-1"></a><span class="fu">## Temporal Dynamics from 2011 to 2016</span></span>
 <span id="cb1-172"><a href="#cb1-172" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-173"><a href="#cb1-173" aria-hidden="true" tabindex="-1"></a>The overall average score varies with the time (between 57.7 and 62.5) and does not follow a specific trend, which implies that the ranking structure is usually stable.</span>
+<span id="cb1-173"><a href="#cb1-173" aria-hidden="true" tabindex="-1"></a>According to @fig-total, the overall average score varies with the time (between 57.7 and 62.5) and does not follow a specific trend, which implies that the ranking structure is usually stable.</span>
 <span id="cb1-174"><a href="#cb1-174" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-175"><a href="#cb1-175" aria-hidden="true" tabindex="-1"></a><span class="al">![Average total score over time (2011–2016)](figures/total_score_per_year.png)</span>{#fig-total fig-pos='H' width=100%}</span>
 <span id="cb1-176"><a href="#cb1-176" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-177"><a href="#cb1-177" aria-hidden="true" tabindex="-1"></a>The major countries are ranked differently across the years, but one and the same group of countries has always been ranked at the top. This means that it is partially stable with some internal variation.</span>
+<span id="cb1-177"><a href="#cb1-177" aria-hidden="true" tabindex="-1"></a>The major countries are ranked differently across the years, but one and the same group of countries has always been ranked at the top. This means that it is partially stable with some internal variation, which is illustrated in @fig-bump-charts.</span>
 <span id="cb1-178"><a href="#cb1-178" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-179"><a href="#cb1-179" aria-hidden="true" tabindex="-1"></a><span class="al">![Average rank by country over time (2011–2016)](figures/bump_charts.png)</span>{#fig-bump-charts fig-pos='H' width=100%}</span>
 <span id="cb1-180"><a href="#cb1-180" aria-hidden="true" tabindex="-1"></a></span>
@@ -1288,48 +1290,50 @@ Times Higher Education. (2015). <em>World university rankings methodology</em>. 
 <span id="cb1-199"><a href="#cb1-199" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-200"><a href="#cb1-200" aria-hidden="true" tabindex="-1"></a>To find these values without overcomplicating mathematics, we use a linear regression model. In this model, the <span class="in">`total_score`</span> is our target, and the five main indicators are our features. The resulting coefficients from the model represent the components of the gradient:</span>
 <span id="cb1-201"><a href="#cb1-201" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-202"><a href="#cb1-202" aria-hidden="true" tabindex="-1"></a>$$\nabla S = (w_{teaching}, w_{research}, w_{citations}, w_{international}, w_{income})$$</span>
-<span id="cb1-203"><a href="#cb1-203" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-204"><a href="#cb1-204" aria-hidden="true" tabindex="-1"></a><span class="fu">## Near-Perfect Alignment with Methodology</span></span>
-<span id="cb1-205"><a href="#cb1-205" aria-hidden="true" tabindex="-1"></a>The calculation of the gradient components (empirical weights) for the 2015 dataset reveals an almost perfect match between the official Times Higher Education methodology and the actual distribution of scores for the top-200 universities. </span>
-<span id="cb1-206"><a href="#cb1-206" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-207"><a href="#cb1-207" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Indicator     <span class="pp">|</span> Empirical Weight <span class="pp">|</span> Official Weight <span class="pp">|</span></span>
-<span id="cb1-208"><a href="#cb1-208" aria-hidden="true" tabindex="-1"></a><span class="pp">| :------------</span> <span class="pp">| :---------------</span> <span class="pp">| :--------------</span> <span class="pp">|</span></span>
-<span id="cb1-209"><a href="#cb1-209" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Teaching      <span class="pp">|</span> 0.299911         <span class="pp">|</span> 0.300           <span class="pp">|</span></span>
-<span id="cb1-210"><a href="#cb1-210" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Research      <span class="pp">|</span> 0.300409         <span class="pp">|</span> 0.300           <span class="pp">|</span></span>
-<span id="cb1-211"><a href="#cb1-211" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Citations     <span class="pp">|</span> 0.299728         <span class="pp">|</span> 0.300           <span class="pp">|</span></span>
-<span id="cb1-212"><a href="#cb1-212" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> International <span class="pp">|</span> 0.074895         <span class="pp">|</span> 0.075           <span class="pp">|</span></span>
-<span id="cb1-213"><a href="#cb1-213" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Income        <span class="pp">|</span> 0.024999         <span class="pp">|</span> 0.025           <span class="pp">|</span></span>
-<span id="cb1-214"><a href="#cb1-214" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-215"><a href="#cb1-215" aria-hidden="true" tabindex="-1"></a>: Gradient Analysis {#tbl-gradient}</span>
+<span id="cb1-202"><a href="#cb1-202" aria-hidden="true" tabindex="-1"></a>$$</span>
+<span id="cb1-203"><a href="#cb1-203" aria-hidden="true" tabindex="-1"></a>\nabla S = (w_{teaching}, w_{research}, w_{citations}, w_{international}, w_{income})</span>
+<span id="cb1-204"><a href="#cb1-204" aria-hidden="true" tabindex="-1"></a>$$ {#eq-gradient}</span>
+<span id="cb1-205"><a href="#cb1-205" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-206"><a href="#cb1-206" aria-hidden="true" tabindex="-1"></a><span class="fu">## Near-Perfect Alignment with Methodology</span></span>
+<span id="cb1-207"><a href="#cb1-207" aria-hidden="true" tabindex="-1"></a>The calculation of the gradient components (empirical weights) defined in (@eq-gradient) for the 2015 dataset reveals an almost perfect match between the official Times Higher Education methodology and the actual distribution of scores for the top-200 universities. </span>
+<span id="cb1-208"><a href="#cb1-208" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-209"><a href="#cb1-209" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Indicator     <span class="pp">|</span> Empirical Weight <span class="pp">|</span> Official Weight <span class="pp">|</span></span>
+<span id="cb1-210"><a href="#cb1-210" aria-hidden="true" tabindex="-1"></a><span class="pp">| :------------</span> <span class="pp">| :---------------</span> <span class="pp">| :--------------</span> <span class="pp">|</span></span>
+<span id="cb1-211"><a href="#cb1-211" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Teaching      <span class="pp">|</span> 0.299911         <span class="pp">|</span> 0.300           <span class="pp">|</span></span>
+<span id="cb1-212"><a href="#cb1-212" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Research      <span class="pp">|</span> 0.300409         <span class="pp">|</span> 0.300           <span class="pp">|</span></span>
+<span id="cb1-213"><a href="#cb1-213" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Citations     <span class="pp">|</span> 0.299728         <span class="pp">|</span> 0.300           <span class="pp">|</span></span>
+<span id="cb1-214"><a href="#cb1-214" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> International <span class="pp">|</span> 0.074895         <span class="pp">|</span> 0.075           <span class="pp">|</span></span>
+<span id="cb1-215"><a href="#cb1-215" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Income        <span class="pp">|</span> 0.024999         <span class="pp">|</span> 0.025           <span class="pp">|</span></span>
 <span id="cb1-216"><a href="#cb1-216" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-217"><a href="#cb1-217" aria-hidden="true" tabindex="-1"></a>The data confirms that the THE ranking strictly followed its stated logic in 2015, as summarized in @tbl-gradient and visualized in @fig-gradient: <span class="in">`teaching`</span>, <span class="in">`research`</span> and <span class="in">`citations`</span> act as three equally powerful "heavyweight" levers, each accounting for approximately 30% of the total score. <span class="in">`international`</span> and <span class="in">`income`</span> provide significantly smaller "pushes" toward the top, at 7.5% and 2.5% respectively.</span>
+<span id="cb1-217"><a href="#cb1-217" aria-hidden="true" tabindex="-1"></a>: Gradient Analysis {#tbl-gradient}</span>
 <span id="cb1-218"><a href="#cb1-218" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-219"><a href="#cb1-219" aria-hidden="true" tabindex="-1"></a><span class="al">![Empirical Weights of THE Indicators (Gradient Components)](figures/gradient_lollipop.png)</span>{#fig-gradient fig-pos='H' width=100%}</span>
+<span id="cb1-219"><a href="#cb1-219" aria-hidden="true" tabindex="-1"></a>The data confirms that the THE ranking strictly followed its stated logic in 2015, as summarized in @tbl-gradient and visualized in @fig-gradient: <span class="in">`teaching`</span>, <span class="in">`research`</span> and <span class="in">`citations`</span> act as three equally powerful "heavyweight" levers, each accounting for approximately 30% of the total score. <span class="in">`international`</span> and <span class="in">`income`</span> provide significantly smaller "pushes" toward the top, at 7.5% and 2.5% respectively.</span>
 <span id="cb1-220"><a href="#cb1-220" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-221"><a href="#cb1-221" aria-hidden="true" tabindex="-1"></a><span class="fu">## Linearity Verification</span></span>
-<span id="cb1-222"><a href="#cb1-222" aria-hidden="true" tabindex="-1"></a>To ensure that our "gradient" approach (based on linear regression) is mathematically sound, we examine the linearity verification. </span>
-<span id="cb1-223"><a href="#cb1-223" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-224"><a href="#cb1-224" aria-hidden="true" tabindex="-1"></a><span class="al">![Linearity Verification: Indicators vs. Total Score (2015)](figures/linearity_check.png)</span>{#fig-linearity fig-pos='H' width=100%}</span>
+<span id="cb1-221"><a href="#cb1-221" aria-hidden="true" tabindex="-1"></a><span class="al">![Empirical Weights of THE Indicators (Gradient Components)](figures/gradient_lollipop.png)</span>{#fig-gradient fig-pos='H' width=100%}</span>
+<span id="cb1-222"><a href="#cb1-222" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-223"><a href="#cb1-223" aria-hidden="true" tabindex="-1"></a><span class="fu">## Linearity Verification</span></span>
+<span id="cb1-224"><a href="#cb1-224" aria-hidden="true" tabindex="-1"></a>To ensure that our "gradient" approach (based on linear regression) is mathematically sound, we examine the linearity verification presented in @fig-linearity.</span>
 <span id="cb1-225"><a href="#cb1-225" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-226"><a href="#cb1-226" aria-hidden="true" tabindex="-1"></a>While <span class="in">`teaching`</span>, <span class="in">`research`</span> and <span class="in">`citations`</span> show a strong, tight linear alignment with the total score, the indicators <span class="in">`international`</span> and <span class="in">`income`</span> display significant dispersion (scattering). This high variability suggests that these factors are less predictable drivers for a university's total score. </span>
+<span id="cb1-226"><a href="#cb1-226" aria-hidden="true" tabindex="-1"></a><span class="al">![Linearity Verification: Indicators vs. Total Score (2015)](figures/linearity_check.png)</span>{#fig-linearity fig-pos='H' width=100%}</span>
 <span id="cb1-227"><a href="#cb1-227" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-228"><a href="#cb1-228" aria-hidden="true" tabindex="-1"></a><span class="fu">## Conclusion</span></span>
-<span id="cb1-229"><a href="#cb1-229" aria-hidden="true" tabindex="-1"></a>The gradient analysis proves that the path to the top of the global academic elite is precisely defined by the 30-30-30-7.5-2.5 weight distribution. For a university in the top 200, the most efficient "ascent" is achieved by focusing on the three primary components: <span class="in">`teaching`</span>, <span class="in">`research`</span>, <span class="in">`citations`</span>. While <span class="in">`income`</span> and <span class="in">`international`</span> are low impact metrics, their low weight makes them poor tools for rapid ranking improvement compared to the dominant academic pillars.</span>
-<span id="cb1-230"><a href="#cb1-230" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-231"><a href="#cb1-231" aria-hidden="true" tabindex="-1"></a><span class="fu"># Final Takeaway</span></span>
+<span id="cb1-228"><a href="#cb1-228" aria-hidden="true" tabindex="-1"></a>While <span class="in">`teaching`</span>, <span class="in">`research`</span> and <span class="in">`citations`</span> show a strong, tight linear alignment with the total score, the indicators <span class="in">`international`</span> and <span class="in">`income`</span> display significant dispersion (scattering). This high variability suggests that these factors are less predictable drivers for a university's total score. </span>
+<span id="cb1-229"><a href="#cb1-229" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-230"><a href="#cb1-230" aria-hidden="true" tabindex="-1"></a><span class="fu">## Conclusion</span></span>
+<span id="cb1-231"><a href="#cb1-231" aria-hidden="true" tabindex="-1"></a>The gradient analysis proves that the path to the top of the global academic elite is precisely defined by the 30-30-30-7.5-2.5 weight distribution. For a university in the top 200, the most efficient "ascent" is achieved by focusing on the three primary components: <span class="in">`teaching`</span>, <span class="in">`research`</span>, <span class="in">`citations`</span>. While <span class="in">`income`</span> and <span class="in">`international`</span> are low impact metrics, their low weight makes them poor tools for rapid ranking improvement compared to the dominant academic pillars.</span>
 <span id="cb1-232"><a href="#cb1-232" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-233"><a href="#cb1-233" aria-hidden="true" tabindex="-1"></a>The study shows the most important facts about how the university ranking works:</span>
+<span id="cb1-233"><a href="#cb1-233" aria-hidden="true" tabindex="-1"></a><span class="fu"># Final Takeaway</span></span>
 <span id="cb1-234"><a href="#cb1-234" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-235"><a href="#cb1-235" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>The three main areas: The ranking mostly depends on three things: <span class="in">`teaching`</span>, <span class="in">`research`</span> and <span class="in">`citations`</span>. Each part gives about 30% of the total score. To get into the Top 200, universities must focus on these three areas.</span>
-<span id="cb1-236"><a href="#cb1-236" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Less important factors: Things like <span class="in">`international`</span> (7.5%) and <span class="in">`income`</span> (2.5%) give a few extra points. However, they do not change a university's rank very much. </span>
-<span id="cb1-237"><a href="#cb1-237" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Clear math: The scoring system is not a secret “black box”. It is simple to comprehend and forecast since it merely sums up the points of each category.</span>
-<span id="cb1-238"><a href="#cb1-238" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Geography: The United States and the United Kingdom have the majority of the leading universities.</span>
-<span id="cb1-239"><a href="#cb1-239" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-240"><a href="#cb1-240" aria-hidden="true" tabindex="-1"></a><span class="fu"># References </span></span>
+<span id="cb1-235"><a href="#cb1-235" aria-hidden="true" tabindex="-1"></a>The study shows the most important facts about how the university ranking works:</span>
+<span id="cb1-236"><a href="#cb1-236" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-237"><a href="#cb1-237" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>The three main areas: The ranking mostly depends on three things: <span class="in">`teaching`</span>, <span class="in">`research`</span> and <span class="in">`citations`</span>. Each part gives about 30% of the total score. To get into the Top 200, universities must focus on these three areas.</span>
+<span id="cb1-238"><a href="#cb1-238" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Less important factors: Things like <span class="in">`international`</span> (7.5%) and <span class="in">`income`</span> (2.5%) give a few extra points. However, they do not change a university's rank very much. </span>
+<span id="cb1-239"><a href="#cb1-239" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Clear math: The scoring system is not a secret “black box”. It is simple to comprehend and forecast since it merely sums up the points of each category.</span>
+<span id="cb1-240"><a href="#cb1-240" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Geography: The United States and the United Kingdom have the majority of the leading universities.</span>
 <span id="cb1-241"><a href="#cb1-241" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-242"><a href="#cb1-242" aria-hidden="true" tabindex="-1"></a>::: {#refs}</span>
-<span id="cb1-243"><a href="#cb1-243" aria-hidden="true" tabindex="-1"></a>:::</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
+<span id="cb1-242"><a href="#cb1-242" aria-hidden="true" tabindex="-1"></a><span class="fu"># References </span></span>
+<span id="cb1-243"><a href="#cb1-243" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-244"><a href="#cb1-244" aria-hidden="true" tabindex="-1"></a>::: {#refs}</span>
+<span id="cb1-245"><a href="#cb1-245" aria-hidden="true" tabindex="-1"></a>:::</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
 </div></div></div></div></div>
 </div> <!-- /content -->
 

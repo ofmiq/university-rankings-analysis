@@ -9,5 +9,8 @@ execute:
   warning: true
   message: true
 
+crossref:
+  eq-prefix: ""
+
 bibliography: references.bib
 csl: apa.csl
