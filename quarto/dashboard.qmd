@@ -1,0 +1,81 @@
+---
+title: "THE University Rankings 2015: Analytical Dashboard"
+author: "Maksym Honchar"
+format: 
+  dashboard:
+    theme: cosmo
+    orientation: columns
+lang: en
+---
+
+## Column {width="23%"}
+
+### About This Dashboard
+
+**Times Higher Education (THE) World University Rankings** --- 2015 dataset, Top-200 universities.
+
+**Core Question:**
+Which of the five indicators drives a university's final position?
+
+**Methodology:**
+Treating the total score $S$ as a function of five variables, the gradient $\nabla S$ points in the direction of steepest ascent:
+
+$$\nabla S = (w_t,\, w_r,\, w_c,\, w_i,\, w_{inc})$$
+
+Empirical weights were extracted via **linear regression** on 201 observations. The coefficients are the gradient components --- each one tells us the marginal gain in total score per unit increase in that indicator.
+
+## Column {width="52%"}
+
+### Distribution of THE Indicators (2015)
+
+![](figures/histograms.png){width="100%"}
+
+### Gradient Analysis: Empirical vs. Official Weights
+
+```{python}
+#| echo: false
+#| warning: false
+
+import pandas as pd
+from sklearn.linear_model import LinearRegression
+
+df_2015 = pd.read_csv("../data/times_clean_2015.csv")
+METRICS = ["teaching", "research", "citations", "international", "income"]
+TARGET = "total_score"
+
+df_model = df_2015.dropna(subset=METRICS + [TARGET])
+X = df_model[METRICS]
+y = df_model[TARGET]
+
+model = LinearRegression(fit_intercept=True)
+_ = model.fit(X, y)
+
+official_weights = [0.30, 0.30, 0.30, 0.075, 0.025]
+
+gradient_results = pd.DataFrame({
+    "Indicator": [m.capitalize() for m in METRICS],
+    "Empirical Weight": model.coef_.round(4),
+    "Official Weight": official_weights
+}).sort_values(by="Empirical Weight", ascending=False)
+
+gradient_results.style.hide(axis='index')
+```
+
+## Column {width="25%"}
+
+### Key Conclusions
+
+**Three Pillars (30% each):**
+`Teaching`, `Research`, and `Citations` together account for **90%** of the total score. No single one dominates the others.
+
+**Minor Factors:**
+`International` (7.5%) and `Income` (2.5%) contribute marginally --- they cannot compensate for weakness in the core three.
+
+**Transparent Formula:**
+The ranking is not a black box. Linear regression confirming it is a simple weighted sum with no hidden nonlinearities.
+
+**Geographic Concentration:**
+The **USA** and **UK** dominate both in university count and average score, hosting the vast majority of Top-10 institutions.
+
+**Practical Implication:**
+The most efficient path upward is investing in **research output and citation impact** --- the two metrics most under institutional control.
